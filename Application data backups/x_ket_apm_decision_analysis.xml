@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:22:21">
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<result>Faster - option 1, easier to implements</result>
+<risks>it could case problem x</risks>
+<solution_description>Option 1</solution_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>a783defe1b187c10590c8664604bcb05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<result>Lower chance to cause additional issues</result>
+<risks/>
+<solution_description>Option 2</solution_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>e8d79afa1b587c10590c8664604bcb0f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001090">14003d98db54f01054fd6e5913961946</parent>
+<result/>
+<risks/>
+<solution_description>Increase CPU capacity</solution_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-20 08:26:51</sys_created_on>
+<sys_id>ec308a68dbd0341054fd6e59139619a0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-20 08:26:51</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001090">14003d98db54f01054fd6e5913961946</parent>
+<result/>
+<risks/>
+<solution_description>Automatic monitor jobs in loop to act before they overflow the environment</solution_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-20 08:26:51</sys_created_on>
+<sys_id>f650826cdbd0341054fd6e5913961950</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-20 08:26:51</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001114">29ac604d1bac2110590c8664604bcbbb</parent>
+<result/>
+<risks/>
+<solution_description>some</solution_description>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:27:38</sys_created_on>
+<sys_id>fdbc680d1bac2110590c8664604bcb7f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:27:38</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<parent display_value="KTAPM0001054">44520a7edbc6d01054fd6e591396199a</parent>
+<result>Works</result>
+<risks/>
+<solution_description>Fix 1</solution_description>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:55:41</sys_created_on>
+<sys_id>83f382bedbc6d01054fd6e59139619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:55:41</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001029">56db78f7db1d33805d305878dc961946</parent>
+<result/>
+<risks/>
+<solution_description>demo</solution_description>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-05-15 23:39:55</sys_created_on>
+<sys_id>306fbebfdb5173805d305878dc961903</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-05-15 23:39:55</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<parent display_value="KTAPM0001046">7dd5cc8adb685010a75cdd3b5e96191e</parent>
+<result/>
+<risks/>
+<solution_description>Replace Edger</solution_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-04 09:37:42</sys_created_on>
+<sys_id>9ed5cc8adb685010a75cdd3b5e961912</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-04 09:37:42</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<result>Will avoid the memory issue entirely.</result>
+<risks>Lose Client trust with reactive action</risks>
+<solution_description>Force new install</solution_description>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>5a099cd1dbd53b40a75cdd3b5e9619d2</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-08-03 13:48:53</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>true</best_choice>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<result>Will require dev time, perm fix</result>
+<risks>may introduce secondary issue</risks>
+<solution_description>Introduce hotfix</solution_description>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>ac091091dbd53b40a75cdd3b5e9619cd</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-06-04 20:00:51</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<result>no further clients get memory issues</result>
+<risks>Clients not on current release code</risks>
+<solution_description>Remove patch until fixed</solution_description>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>bbe85c51dbd53b40a75cdd3b5e961997</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2019-05-07 17:23:04</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001068">ef4c9af6dbc2201073b4a3764896194f</parent>
+<result/>
+<risks/>
+<solution_description>Demo</solution_description>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:53:39</sys_created_on>
+<sys_id>7b6c96b6dbc2201073b4a376489619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:53:39</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<result>Permanent fix</result>
+<risks>May introduce secondary issues</risks>
+<solution_description>Patch to fix</solution_description>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>2733f791db419810a75cdd3b5e9619fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<result/>
+<risks/>
+<solution_description>Open up proofing tunnel</solution_description>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>16677f6fdbd6281073b4a37648961995</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<result/>
+<risks/>
+<solution_description>Adjust Edger Screws with wrench</solution_description>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>5e57bf23db1a281073b4a376489619ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+</x_ket_apm_decision_analysis>
+<x_ket_apm_decision_analysis action="INSERT_OR_UPDATE">
+<best_choice>false</best_choice>
+<is_this_our_best_choice/>
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<result>Free fast and easy</result>
+<risks>Might have donut blow outs</risks>
+<solution_description>Replace Edger Assembley</solution_description>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>8e37fb63db1a281073b4a3764896195d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+</x_ket_apm_decision_analysis>
+</unload>

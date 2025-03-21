@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:13:44">
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001033</number>
+<objects/>
+<opened_at>2023-04-26 18:28:22</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value="CS0001016">ef904622db4be49054fd6e591396190b</parent>
+<parent_case display_value="CS0001016">ef904622db4be49054fd6e591396190b</parent_case>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-04-26 18:28:32</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9bcc7b3f1b5261d0590c8664604bcb03</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-04-26 18:28:32</sys_updated_on>
+<task_effective_number>KTACM0001033</task_effective_number>
+<time_worked/>
+<true_cause>Demo</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001032</number>
+<objects/>
+<opened_at>2023-03-30 19:33:58</opened_at>
+<opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+<order/>
+<parent display_value="CS0001025">dcd8411b1bf52110590c8664604bcb8d</parent>
+<parent_case display_value="CS0001025">dcd8411b1bf52110590c8664604bcb8d</parent_case>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:34:34</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7ce8451b1bf52110590c8664604bcb04</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:34:34</sys_updated_on>
+<task_effective_number>KTACM0001032</task_effective_number>
+<time_worked/>
+<true_cause/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001031</number>
+<objects/>
+<opened_at>2023-03-30 19:24:17</opened_at>
+<opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+<order/>
+<parent display_value="CS0001024">75968d531bf52110590c8664604bcb56</parent>
+<parent_case display_value="CS0001024">75968d531bf52110590c8664604bcb56</parent_case>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>43a681931bf52110590c8664604bcbaf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:36</sys_updated_on>
+<task_effective_number>KTACM0001031</task_effective_number>
+<time_worked/>
+<true_cause/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation>2</deviation>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001026</number>
+<objects>1</objects>
+<opened_at>2023-01-20 17:29:09</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value="CS0001020">a68615011ba06110590c8664604bcbe1</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:37</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c0a659011ba06110590c8664604bcb62</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:37</sys_updated_on>
+<task_effective_number>KTACM0001026</task_effective_number>
+<time_worked/>
+<true_cause/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001025</number>
+<objects/>
+<opened_at>2023-01-20 14:32:14</opened_at>
+<opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+<order/>
+<parent display_value="CS0001019">3afdac8d1bac2110590c8664604bcbe2</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:33:04</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>502ee0cd1bac2110590c8664604bcbe4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+<task_effective_number>KTACM0001025</task_effective_number>
+<time_worked/>
+<true_cause>Demo</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001023</number>
+<objects/>
+<opened_at>2021-03-25 13:46:53</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value="CS0001017">aec032eadbcbe49054fd6e591396195f</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a2e0f2eadbcbe49054fd6e591396190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<task_effective_number>KTACM0001023</task_effective_number>
+<time_worked/>
+<true_cause/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001020</number>
+<objects/>
+<opened_at>2021-03-16 13:21:16</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value="CS0001014">1974dcf3dbf6649073b4a376489619a4</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6bb49837dbf6649073b4a376489619cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<task_effective_number>KTACM0001020</task_effective_number>
+<time_worked/>
+<true_cause/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Christoph Goldenstern">f3003f32db2a6c1054fd6e591396192f</assigned_to>
+<assignment_group display_value="Service Desk" name="Service Desk">d625dccec0a8016700a222a0f7900d06</assignment_group>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation>has 90% CPU utilization</deviation>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001018</number>
+<objects>Network wizard</objects>
+<opened_at>2021-03-01 16:27:58</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value="CS0001011">9c0f2bfedbe66c1054fd6e59139619a2</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>Send patch to development and ask for hotfix to be released</proposed_fix>
+<reassignment_count>1</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:36:42</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9caf6732db2a6c1054fd6e59139619f1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:11:13</sys_updated_on>
+<task_effective_number>KTACM0001018</task_effective_number>
+<time_worked/>
+<true_cause>Version 12.4 patch instances introduce a memory leak into the network wizard application</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001015</number>
+<objects/>
+<opened_at>2020-11-16 08:26:19</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>hi there</proposed_fix>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:33</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c972dd09dbac6c5073b4a37648961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:33</sys_updated_on>
+<task_effective_number>KTACM0001015</task_effective_number>
+<time_worked/>
+<true_cause>dwd</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation>have round edges</deviation>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001014</number>
+<objects>Sugar donuts</objects>
+<opened_at>2020-08-03 20:44:23</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>Fix belt; replace edger</proposed_fix>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:28</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>7c7ccb1fdbd6145073b4a37648961923</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:36:29</sys_updated_on>
+<task_effective_number>KTACM0001014</task_effective_number>
+<time_worked/>
+<true_cause>Edger Replaced --&gt; Loose screw
+Edger fell off; NOT GOOD</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001013</number>
+<objects/>
+<opened_at>2020-07-20 16:49:16</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value="CS0001006">d1501ef6db86d01073b4a37648961921</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>123</proposed_fix>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:23</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>5060daf6db86d01073b4a376489619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:23</sys_updated_on>
+<task_effective_number>KTACM0001013</task_effective_number>
+<time_worked/>
+<true_cause>123</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001012</number>
+<objects/>
+<opened_at>2020-07-20 16:47:33</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value="CS0001005">a5cf42f6db86d01073b4a3764896193d</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>asas</proposed_fix>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:46</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>4bff86b6db86d01073b4a37648961940</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-04-26 18:38:07</sys_updated_on>
+<task_effective_number>KTACM0001012</task_effective_number>
+<time_worked/>
+<true_cause>sasasas</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation>Demo Deviation 1</deviation>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001011</number>
+<objects>Demo Object 1</objects>
+<opened_at>2020-07-20 15:59:22</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value="CS0001004">ff748efedbc6d01054fd6e591396196d</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>Paris proposed fix demo1</proposed_fix>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 16:02:31</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8df44a32db0ad01054fd6e591396190e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:57</sys_updated_on>
+<task_effective_number>KTACM0001011</task_effective_number>
+<time_worked/>
+<true_cause>Paris true cause demo1</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001010</number>
+<objects/>
+<opened_at>2020-01-29 14:21:26</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value="CS0001003">0d7ea2c3db660410a109597e5e961988</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix>Demo proposed fix</proposed_fix>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:24:44</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>f773b687db660410a109597e5e96199c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:24:44</sys_updated_on>
+<task_effective_number>KTACM0001010</task_effective_number>
+<time_worked/>
+<true_cause>Demo true cause</true_cause>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+<x_ket_acm_case_analysis action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</assigned_to>
+<assignment_group display_value=""/>
+<associated_record/>
+<associated_table/>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<deviation/>
+<due_date/>
+<escalation>0</escalation>
+<expected_start/>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>KTACM0001009</number>
+<objects/>
+<opened_at>2020-01-28 21:20:45</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value="CS0001001">5c2a66f6dbe60410a75cdd3b5e96199b</parent>
+<parent_case display_value=""/>
+<priority>4</priority>
+<process_flow_state/>
+<proposed_fix/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Advanced Case Analysis</short_description>
+<skills/>
+<sla_due/>
+<state>1</state>
+<state_the_problem/>
+<sys_class_name>x_ket_acm_case_analysis</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:54</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>58e943fedb2a0410a75cdd3b5e96194d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:54</sys_updated_on>
+<task_effective_number>KTACM0001009</task_effective_number>
+<time_worked/>
+<true_cause/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<visible_to_customer>false</visible_to_customer>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</x_ket_acm_case_analysis>
+</unload>

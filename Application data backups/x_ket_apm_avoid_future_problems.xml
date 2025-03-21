@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:20:56">
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<recommendations_and_thoughts>all the other bolts should be checked</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>0237fb63db1a281073b4a3764896195e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+<think_beyond_the_fix>Where else could this cause create problems?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<recommendations_and_thoughts>Code made by same developer</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>a30a9c51dbd53b40a75cdd3b5e961917</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2019-05-07 17:23:04</sys_updated_on>
+<think_beyond_the_fix>Where else could this cause create problems?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<recommendations_and_thoughts>Burger King, Mc Donalds, Wendys stores could be affected it too</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>ba499e3e1b587c10590c8664604bcbce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+<think_beyond_the_fix>Where else could this cause create problems?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<recommendations_and_thoughts>Code made by same developer</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>aa04bb91db419810a75cdd3b5e9619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<think_beyond_the_fix>Where else could this cause create problems?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<recommendations_and_thoughts>Introduces secondary issue</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>bc0437d1db419810a75cdd3b5e96192d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<think_beyond_the_fix>What problems could this fix cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<recommendations_and_thoughts>Introduces secondary issues</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>9a0a5c51dbd53b40a75cdd3b5e961999</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2019-05-07 17:23:04</sys_updated_on>
+<think_beyond_the_fix>What problems could this fix cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<recommendations_and_thoughts>Other apps could crash &gt; Understand impact</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>050a9c51dbd53b40a75cdd3b5e961916</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2024-02-21 11:17:30</sys_updated_on>
+<think_beyond_the_fix>What other damage could this cause create?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001033">bf12b0b2dbd33b00a75cdd3b5e9619ef</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 20:54:57</sys_created_on>
+<sys_id>c322f0b2dbd33b00a75cdd3b5e961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 20:54:57</sys_updated_on>
+<think_beyond_the_fix>What other damage could this cause create?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<recommendations_and_thoughts>Lack of wifi</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>46199eb61b587c10590c8664604bcb85</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+<think_beyond_the_fix>What other damage could this cause create?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<recommendations_and_thoughts>Other apps could crash</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>63f37bd1db419810a75cdd3b5e9619fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<think_beyond_the_fix>What other damage could this cause create?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<recommendations_and_thoughts>Burger King stores</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>8fb8dabe1b587c10590c8664604bcb4a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<recommendations_and_thoughts>Any other patches using same base code</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>f7f9d015dbd53b40a75cdd3b5e9619a6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2019-05-07 17:23:04</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<recommendations_and_thoughts>Any other patches using same base code</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>e2f3bbd1db419810a75cdd3b5e96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001029">56db78f7db1d33805d305878dc961946</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-05-15 23:39:55</sys_created_on>
+<sys_id>386fb673db9173805d305878dc9619a0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-05-15 23:39:55</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001046">7dd5cc8adb685010a75cdd3b5e96191e</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-04 09:37:42</sys_created_on>
+<sys_id>4f0bc08adb685010a75cdd3b5e9619a0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-04 09:37:42</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001054">44520a7edbc6d01054fd6e591396199a</parent>
+<recommendations_and_thoughts>Butterfingers</recommendations_and_thoughts>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:56:16</sys_created_on>
+<sys_id>f71486bedbc6d01054fd6e59139619ae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:56:16</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001114">29ac604d1bac2110590c8664604bcbbb</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:27:38</sys_created_on>
+<sys_id>71bc680d1bac2110590c8664604bcb80</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:27:38</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<recommendations_and_thoughts>Lack of testing after development</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>6b33f351db419810a75cdd3b5e9619e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<recommendations_and_thoughts>Lack of testing after development</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>3fe85c51dbd53b40a75cdd3b5e961997</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2019-05-07 17:23:04</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<recommendations_and_thoughts>Disconnection of equipment into MC Donalds Servers</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>2b83defe1b187c10590c8664604bcb05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<recommendations_and_thoughts>excess vibration on machine due to stoppage</recommendations_and_thoughts>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>1578bbefdbd6281073b4a3764896191d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001046">7dd5cc8adb685010a75cdd3b5e96191e</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-04 09:37:42</sys_created_on>
+<sys_id>12d5cc8adb685010a75cdd3b5e961913</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-04 09:37:42</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+<x_ket_apm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTAPM0001068">ef4c9af6dbc2201073b4a3764896194f</parent>
+<recommendations_and_thoughts>Demo</recommendations_and_thoughts>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:53:39</sys_created_on>
+<sys_id>fb6c96b6dbc2201073b4a376489619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:53:39</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_apm_avoid_future_problems>
+</unload>

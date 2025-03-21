@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:25:20">
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:33:04</sys_created_on>
+<sys_id>202e648d1bac2110590c8664604bcbc6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<recommendations_and_thoughts>Andere Reihen</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>1abb5837dbf6649073b4a37648961983</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<think_beyond_the_fix>Where else could this cause create problems?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<recommendations_and_thoughts>Überarbeite Gewinde in Reihe 12</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>568b98bbdbf6649073b4a3764896195d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<recommendations_and_thoughts>Vibrationen zu stark - ivestigate</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>dcc45437dbf6649073b4a37648961918</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<recommendations_and_thoughts>Slippery hands</recommendations_and_thoughts>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 16:02:30</sys_created_on>
+<sys_id>b5f40efedbc6d01054fd6e5913961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:30</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<recommendations_and_thoughts>Lack of testing after development</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>37f7bbf6db2a6c1054fd6e59139619b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<recommendations_and_thoughts>Any other patches using same base code</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>7528fbf6db2a6c1054fd6e59139619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<think_beyond_the_fix>What identical things need the same fix?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<recommendations_and_thoughts>Other apps could crash</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>b2e63bb6db2a6c1054fd6e59139619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<think_beyond_the_fix>What other damage could this cause create?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<recommendations_and_thoughts>Code made by same developer</recommendations_and_thoughts>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>e6083ff6db2a6c1054fd6e591396191b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<think_beyond_the_fix>Where else could this cause create problems?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<recommendations_and_thoughts/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>57e0beaadbcbe49054fd6e59139619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<think_beyond_the_fix>What other damage could this cause create?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+<x_ket_acm_avoid_future_problems action="INSERT_OR_UPDATE">
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<recommendations_and_thoughts>Demo</recommendations_and_thoughts>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-02-10 20:18:57</sys_created_on>
+<sys_id>3f387d0bdb760010a109597e5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-02-10 20:18:57</sys_updated_on>
+<think_beyond_the_fix>What caused the cause?</think_beyond_the_fix>
+</x_ket_acm_avoid_future_problems>
+</unload>

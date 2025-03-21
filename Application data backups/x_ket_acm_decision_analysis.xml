@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:26:23">
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Demo</alternatives>
+<is_this_our_best_choice/>
+<key_benefits/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<risks/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:33:04</sys_created_on>
+<sys_id>ac2e648d1bac2110590c8664604bcbc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Tausche Stauchvorrichtung aus</alternatives>
+<is_this_our_best_choice/>
+<key_benefits/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<risks/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>5cc45437dbf6649073b4a37648961918</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Dry it off</alternatives>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<key_benefits>easy</key_benefits>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<risks>may not work</risks>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 16:02:30</sys_created_on>
+<sys_id>35f40efedbc6d01054fd6e5913961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:30</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>force new install</alternatives>
+<is_this_our_best_choice/>
+<key_benefits>will avoid the memory issue entirely.</key_benefits>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<risks>Lose Client trust with reactive action</risks>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>32e63bb6db2a6c1054fd6e59139619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Introduce hotfix</alternatives>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<key_benefits>Will require dev time, perm fix</key_benefits>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<risks>may introduce secondary issue</risks>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>8d37f7b6db2a6c1054fd6e591396199d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Remove patch until fixed</alternatives>
+<is_this_our_best_choice/>
+<key_benefits>No further clients get memory issues</key_benefits>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<risks>Clients not on current release code</risks>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>b27733f6db2a6c1054fd6e59139619d6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Alternative 3</alternatives>
+<is_this_our_best_choice/>
+<key_benefits/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<risks/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>8075f2eadbcbe49054fd6e5913961994</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Alternative 2</alternatives>
+<is_this_our_best_choice/>
+<key_benefits/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<risks/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>b265722edbcbe49054fd6e591396194e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Stauchvorrichtung ersetzen</alternatives>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<key_benefits/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<risks/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>d3e0beaadbcbe49054fd6e59139619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+</x_ket_acm_decision_analysis>
+<x_ket_acm_decision_analysis action="INSERT_OR_UPDATE">
+<alternatives>Demo fix1</alternatives>
+<is_this_our_best_choice>Yes</is_this_our_best_choice>
+<key_benefits>Works</key_benefits>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<risks>Not much</risks>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-02-10 20:18:57</sys_created_on>
+<sys_id>bb387d0bdb760010a109597e5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-02-10 20:18:57</sys_updated_on>
+</x_ket_acm_decision_analysis>
+</unload>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:26:38">
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Donut</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:36</sys_created_on>
+<sys_id>67a685531bf52110590c8664604bcb4c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:36</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>asass</action_items>
+<concern/>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:46</sys_created_on>
+<sys_id>afffc6f6db86d01073b4a37648961944</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:46</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Demo</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:33:04</sys_created_on>
+<sys_id>e82e648d1bac2110590c8664604bcbc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Finde die Ursache</action_items>
+<concern>Zuckerkrapfen haben abgerundete Kanten</concern>
+<context/>
+<current_impact>25%</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>20e4d037dbf6649073b4a37648961956</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Zuckerkrapfen haben Hörnchen</concern>
+<context/>
+<current_impact>5 von 36 in Reihe 1</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>27e55837dbf6649073b4a37648961911</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Überprüfe wann wir im Prozess die Krapfen das erste mal beobachten können</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>45375837dbf6649073b4a376489619dc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Warum sind die Vibrationen neuerdings so hoch</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>458898b7dbf6649073b4a3764896198a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>25% Ausschuss bei Zuckerkrapfen</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>98c45437dbf6649073b4a37648961918</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Informiere Kunde X über  potentielle Lieferschwierigkeiten</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>a1f59837dbf6649073b4a37648961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Informiere Management XY</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>c2075837dbf6649073b4a37648961912</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>check where data</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-12-04 15:44:53</sys_created_on>
+<sys_id>3c43e3f6db7ce85054fd6e591396192e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-12-04 15:44:53</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>oaidgadad</action_items>
+<concern>aksaldhkalkdhad</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-12-04 15:43:48</sys_created_on>
+<sys_id>abf267f6db7ce85054fd6e591396192c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-12-04 15:43:48</sys_updated_on>
+<timeframe/>
+<when_to_follow_up>2020-12-18 15:43:41</when_to_follow_up>
+<who_assigned display_value="Colin Altonen">8e826bf03710200044e0bfc8bcbe5d86</who_assigned>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Taste</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001032">7ce8451b1bf52110590c8664604bcb04</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:34:34</sys_created_on>
+<sys_id>41e8451b1bf52110590c8664604bcb88</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:34:34</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Not working</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 16:02:30</sys_created_on>
+<sys_id>71f40efedbc6d01054fd6e5913961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:30</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of performance slow-down</action_items>
+<concern>Fran Green wants a faster server</concern>
+<context>Network wizard is too resource heavy</context>
+<current_impact>3x more CPU than normal</current_impact>
+<future_impact>Two other apps may crash</future_impact>
+<overall_priority>1</overall_priority>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:36:42</sys_created_on>
+<sys_id>2ec07332db2a6c1054fd6e59139619a1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<timeframe/>
+<when_to_follow_up>2021-03-31 16:00:21</when_to_follow_up>
+<who_assigned display_value="Barbara Hindley">d2826bf03710200044e0bfc8bcbe5dc9</who_assigned>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Begin optimization of SQL routines</action_items>
+<concern>Director thinks we are wasting time</concern>
+<context>Optimization preferred to patching</context>
+<current_impact>5 jobs placed at risk</current_impact>
+<future_impact>More than 5 jobs at risk</future_impact>
+<overall_priority>2</overall_priority>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:36:42</sys_created_on>
+<sys_id>60afa732db2a6c1054fd6e5913961900</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<timeframe>Before cross-charges are billed</timeframe>
+<when_to_follow_up>2021-04-02 16:00:30</when_to_follow_up>
+<who_assigned display_value="Alejandro Mascall">a2826bf03710200044e0bfc8bcbe5ded</who_assigned>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Decide on which projects to delay</action_items>
+<concern>PMO reports projects may be affected</concern>
+<context>Not enough resources to do everything</context>
+<current_impact>Projects are fine now</current_impact>
+<future_impact>Project may miss deadline</future_impact>
+<overall_priority>3</overall_priority>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:36:42</sys_created_on>
+<sys_id>f2403732db2a6c1054fd6e59139619c4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<timeframe/>
+<when_to_follow_up>2021-04-30 16:00:35</when_to_follow_up>
+<who_assigned display_value="Darrel Tork">ce826bf03710200044e0bfc8bcbe5d67</who_assigned>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Zuckerkrapfen haben 25% Ausschuss</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:53</sys_created_on>
+<sys_id>13e0beaadbcbe49054fd6e59139619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:53</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Zeitlich erstes Auftreten</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>37b2722edbcbe49054fd6e591396194c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Überprüfe Luftdruck</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>4514b26edbcbe49054fd6e5913961926</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Zuckerkrapfen haben Hörnchen</concern>
+<context/>
+<current_impact>5 von 36</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>57e1f2eadbcbe49054fd6e591396195a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Zuckerkrapfen haben abgerundete Kanten*</concern>
+<context/>
+<current_impact>25%</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>5e91f2e6dbcbe49054fd6e591396190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Kunden informieren, dass Lieferung X ggf. verspätet ist</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>b9f1feaadbcbe49054fd6e591396192e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Alejandro Mascall">a2826bf03710200044e0bfc8bcbe5ded</who_assigned>
+</x_ket_acm_situation_appraisal>
+<x_ket_acm_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>ABC</action_items>
+<concern>Demo 1</concern>
+<context>Demo</context>
+<current_impact>None</current_impact>
+<future_impact>some</future_impact>
+<overall_priority>High</overall_priority>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-02-10 20:17:44</sys_created_on>
+<sys_id>71e7790bdb760010a109597e5e96190d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-02-10 20:17:44</sys_updated_on>
+<timeframe>someday</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value="Christoph Goldenstern">8cbdd41bdba07300a75cdd3b5e9619b7</who_assigned>
+</x_ket_acm_situation_appraisal>
+</unload>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:17:56">
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Actual Service Degraded</choice>
+<sequence>10</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>01b63c0adb1a8810a109597e5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Initial Notification Sent</choice>
+<sequence>60</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>01b63c0adb1a8810a109597e5e9619ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Issue Detected</choice>
+<sequence>20</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>05b63c0adb1a8810a109597e5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Restoration Verified - Partial</choice>
+<sequence>100</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>0db63c0adb1a8810a109597e5e9619ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Fix Implemented Monitoring Incident</choice>
+<sequence>90</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>49b63c0adb1a8810a109597e5e9619ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Incident Manager Engaged</choice>
+<sequence>50</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>4db63c0adb1a8810a109597e5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Investigation Closed</choice>
+<sequence>120</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>81b63c0adb1a8810a109597e5e9619ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Fix Begins</choice>
+<sequence>80</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>85b63c0adb1a8810a109597e5e9619ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Group Assigned</choice>
+<sequence>40</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>89b63c0adb1a8810a109597e5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Investigation Begins</choice>
+<sequence>70</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>c1b63c0adb1a8810a109597e5e9619ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Ticket Created</choice>
+<sequence>30</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>c5b63c0adb1a8810a109597e5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+<x_ket_kt_analysis_milestone_choices action="INSERT_OR_UPDATE">
+<active>true</active>
+<choice>Restoration Verified - Full</choice>
+<sequence>110</sequence>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-13 16:26:35</sys_created_on>
+<sys_id>cdb63c0adb1a8810a109597e5e9619ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-13 16:26:35</sys_updated_on>
+</x_ket_kt_analysis_milestone_choices>
+</unload>

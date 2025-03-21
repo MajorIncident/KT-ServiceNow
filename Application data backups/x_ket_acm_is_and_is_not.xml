@@ -1,0 +1,7202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:26:58">
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>33222509dbec6c5073b4a37648961979</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>3322a909dbec6c5073b4a376489619ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>37222509dbec6c5073b4a37648961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>3b222509dbec6c5073b4a37648961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>3f222509dbec6c5073b4a37648961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>b322a909dbec6c5073b4a376489619ca</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>b7222509dbec6c5073b4a37648961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>bb222509dbec6c5073b4a37648961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>bf222509dbec6c5073b4a37648961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value=""/>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:35:03</sys_created_on>
+<sys_id>bf222509dbec6c5073b4a37648961978</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:35:03</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>40cbea3adbe60410a75cdd3b5e961916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>44cbea3adbe60410a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>44cbea3adbe60410a75cdd3b5e961916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>48cbea3adbe60410a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>4ccbea3adbe60410a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>c0cbea3adbe60410a75cdd3b5e961916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>c4cbea3adbe60410a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>c4cbea3adbe60410a75cdd3b5e961916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>c8cbea3adbe60410a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">00cbea3adbe60410a75cdd3b5e961915</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:09:06</sys_created_on>
+<sys_id>cccbea3adbe60410a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:09:06</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>61daaaf6dbe60410a75cdd3b5e961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>65daaaf6dbe60410a75cdd3b5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>65daaaf6dbe60410a75cdd3b5e961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>69daaaf6dbe60410a75cdd3b5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>6ddaaaf6dbe60410a75cdd3b5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>e1daaaf6dbe60410a75cdd3b5e961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>e5daaaf6dbe60410a75cdd3b5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>e5daaaf6dbe60410a75cdd3b5e961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>e9daaaf6dbe60410a75cdd3b5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">21daaaf6dbe60410a75cdd3b5e961935</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:07</sys_created_on>
+<sys_id>eddaaaf6dbe60410a75cdd3b5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:07</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>6168e5d2db8ba49054fd6e5913961931</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>6568e5d2db8ba49054fd6e5913961931</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>6968e5d2db8ba49054fd6e5913961931</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>6d68e5d2db8ba49054fd6e5913961930</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>e168e5d2db8ba49054fd6e5913961930</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>e168e5d2db8ba49054fd6e5913961931</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>e568e5d2db8ba49054fd6e5913961931</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>e968e5d2db8ba49054fd6e5913961930</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>e968e5d2db8ba49054fd6e5913961931</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">2968e5d2db8ba49054fd6e591396192f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:35</sys_created_on>
+<sys_id>ed68e5d2db8ba49054fd6e5913961930</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:35</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:28</sys_created_on>
+<sys_id>00563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:28</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>00563f151bd45d50590c8664604bcb52</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>04563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>08563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>0c563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:28</sys_created_on>
+<sys_id>3b463f151bd45d50590c8664604bcb50</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:28</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>80563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>84563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>88563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">33463f151bd45d50590c8664604bcb50</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-24 17:18:29</sys_created_on>
+<sys_id>8c563f151bd45d50590c8664604bcb51</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-24 17:18:29</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Donut</is>
+<is_not>Cake</is_not>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>0fa681931bf52110590c8664604bcbaf</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:36</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>43a681931bf52110590c8664604bcbb1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>47a681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>4ba681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>4fa681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>c3a681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>c3a681931bf52110590c8664604bcbb1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>c7a681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>cba681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001031">43a681931bf52110590c8664604bcbaf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:17</sys_created_on>
+<sys_id>cfa681931bf52110590c8664604bcbb0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:17</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not>sas</is_not>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>03ffc6f6db86d01073b4a37648961937</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:46</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>07ffc6f6db86d01073b4a37648961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>43ff86b6db86d01073b4a37648961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>43ff86b6db86d01073b4a37648961942</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>4bff86b6db86d01073b4a37648961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>4fff86b6db86d01073b4a37648961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>83ffc6f6db86d01073b4a37648961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>c3ff86b6db86d01073b4a37648961942</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>cbff86b6db86d01073b4a37648961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001012">4bff86b6db86d01073b4a37648961940</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:33</sys_created_on>
+<sys_id>cfff86b6db86d01073b4a37648961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:33</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Day</is>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>502ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>502ee0cd1bac2110590c8664604bcbe6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>542ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>582ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>5c2ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>982ee0cd1bac2110590c8664604bcbe4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>d02ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>d42ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>d82ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:14</sys_created_on>
+<sys_id>dc2ee0cd1bac2110590c8664604bcbe5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:32:14</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>1060daf6db86d01073b4a376489619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>1460daf6db86d01073b4a376489619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>1860daf6db86d01073b4a376489619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>1860daf6db86d01073b4a376489619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>1c60daf6db86d01073b4a376489619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>9060daf6db86d01073b4a376489619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>9460daf6db86d01073b4a376489619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>9460daf6db86d01073b4a376489619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>9860daf6db86d01073b4a376489619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001013">5060daf6db86d01073b4a376489619e7</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:16</sys_created_on>
+<sys_id>9c60daf6db86d01073b4a376489619e7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:16</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>117baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>157baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>197baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>1d7baa3adbe60410a75cdd3b5e961944</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>1d7baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>917baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>957baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>997baa3adbe60410a75cdd3b5e961944</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>997baa3adbe60410a75cdd3b5e961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">557baa76dbe60410a75cdd3b5e9619d9</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:07:50</sys_created_on>
+<sys_id>9d7baa3adbe60410a75cdd3b5e961944</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:07:50</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>12ba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>16ba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>1aba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>1eba6ef6dbe60410a75cdd3b5e9619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>1eba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>92ba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>96ba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>9aba6ef6dbe60410a75cdd3b5e9619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>9aba6ef6dbe60410a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">56ba6ef6dbe60410a75cdd3b5e9619ea</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:04:37</sys_created_on>
+<sys_id>9eba6ef6dbe60410a75cdd3b5e9619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:04:37</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>10d00a22db4be49054fd6e5913961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>14d00a22db4be49054fd6e5913961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>18d00a22db4be49054fd6e5913961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>1cd00a22db4be49054fd6e5913961980</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>90d00a22db4be49054fd6e5913961980</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>90d00a22db4be49054fd6e5913961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>94d00a22db4be49054fd6e5913961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>98d00a22db4be49054fd6e5913961980</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>98d00a22db4be49054fd6e5913961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">58d00a22db4be49054fd6e591396197f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:45</sys_created_on>
+<sys_id>9cd00a22db4be49054fd6e5913961980</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 10:16:45</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>50e943fedb2a0410a75cdd3b5e96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>54e943fedb2a0410a75cdd3b5e96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>58e943fedb2a0410a75cdd3b5e96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>5ce943fedb2a0410a75cdd3b5e96194e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>d0e943fedb2a0410a75cdd3b5e96194e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>d0e943fedb2a0410a75cdd3b5e96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>d4e943fedb2a0410a75cdd3b5e96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>d8e943fedb2a0410a75cdd3b5e96194e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>d8e943fedb2a0410a75cdd3b5e96194f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001009">58e943fedb2a0410a75cdd3b5e96194d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:45</sys_created_on>
+<sys_id>dce943fedb2a0410a75cdd3b5e96194e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:45</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>13fa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>13fa223adbe60410a75cdd3b5e961921</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>17fa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>1bfa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>1ffa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>93fa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>97fa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>9bfa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>9ffa223adbe60410a75cdd3b5e96191f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5bfa223adbe60410a75cdd3b5e96191f</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:05:47</sys_created_on>
+<sys_id>9ffa223adbe60410a75cdd3b5e961920</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:05:47</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>103baef6dbe60410a75cdd3b5e96190f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>143baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>143baef6dbe60410a75cdd3b5e96190f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>183baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>1c3baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>903baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>903baef6dbe60410a75cdd3b5e96190f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>943baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>983baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">5c3baef6dbe60410a75cdd3b5e96190d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:06:40</sys_created_on>
+<sys_id>9c3baef6dbe60410a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:06:40</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Schrauben gelöst</changes>
+<distinctions>Wird nicht geschnitten, sondern durch Stauchvorrichtung geformt</distinctions>
+<explain_1/>
+<explain_2>Nein, außen gibt es keine Klinge</explain_2>
+<explain_3>JA</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Außenseite</is>
+<is_not>Innenseite, andere Seiten</is_not>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>23b49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1>Nein, sonst alle betroffen</explain_1>
+<explain_2>A</explain_2>
+<explain_3>A nur auf der Zuckerseite gelöst</explain_3>
+<explain_4>A Nur dort zu niedrig</explain_4>
+<explain_5>Nein, sonst alle betroffen</explain_5>
+<explain_6/>
+<is>Zuckerkrapfen</is>
+<is_not>Natur-Glasurkrapfen</is_not>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:16</sys_created_on>
+<sys_id>27b49837dbf6649073b4a376489619d0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>JA</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Kontinuierlich</is>
+<is_not>Periodisch</is_not>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>27b49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>25%</is>
+<is_not/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>2bb49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Abgerundete Kante</is>
+<is_not/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>2fb49837dbf6649073b4a376489619d0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>2fb49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 13:21:17</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>-</changes>
+<distinctions>Kette ersetzt</distinctions>
+<explain_1/>
+<explain_2/>
+<explain_3>A erst seit 1 Stunde lose</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Vor ca. 1 Stunde</is>
+<is_not/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>a3b49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>MDE</is>
+<is_not/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>a7b49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>abb49837dbf6649073b4a376489619d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 13:21:17</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Modifiziert (letzte Woche)</changes>
+<distinctions>Geringster Luftdruck</distinctions>
+<explain_1/>
+<explain_2>A</explain_2>
+<explain_3>JA</explain_3>
+<explain_4>Nur in Reihe 1 zu niedrig</explain_4>
+<explain_5/>
+<explain_6/>
+<is>Reihe 1</is>
+<is_not>Reihe 2-4</is_not>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:21:17</sys_created_on>
+<sys_id>afb49837dbf6649073b4a376489619d0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>712d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>712d777edbb5a91054fd6e591396193e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>752d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>792d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>7d2d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>b92d777edbb5a91054fd6e591396193c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>f12d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>f52d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>f92d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">712d777edbb5a91054fd6e591396193c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:24:35</sys_created_on>
+<sys_id>fd2d777edbb5a91054fd6e591396193d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:24:35</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>31f70007dbf5a91054fd6e5913961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>35f70007dbf5a91054fd6e5913961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>39f70007dbf5a91054fd6e5913961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>3df70007dbf5a91054fd6e5913961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>86f70007dbf5a91054fd6e5913961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>b1f70007dbf5a91054fd6e5913961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>b5f70007dbf5a91054fd6e5913961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>b9f70007dbf5a91054fd6e5913961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>bdf70007dbf5a91054fd6e5913961922</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">79f70007dbf5a91054fd6e5913961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:11:50</sys_created_on>
+<sys_id>bdf70007dbf5a91054fd6e5913961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:11:50</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>723884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>763884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>7a3884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>7e3884c7dbf5a91054fd6e5913961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>7e3884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>f23884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>f63884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>fa3884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>fe3884c7dbf5a91054fd6e5913961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">7a3884c7dbf5a91054fd6e5913961971</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 20:12:58</sys_created_on>
+<sys_id>fe3884c7dbf5a91054fd6e5913961972</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 20:12:58</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>307ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>347ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>387ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>3c7ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>b07ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>b47ccb1fdbd6145073b4a37648961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>b47ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>b87ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>bc7ccb1fdbd6145073b4a37648961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001014">7c7ccb1fdbd6145073b4a37648961923</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:44:23</sys_created_on>
+<sys_id>bc7ccb1fdbd6145073b4a37648961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:44:23</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>00602eb7dbaa205054fd6e591396191a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>04602eb7dbaa205054fd6e591396191a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>08602eb7dbaa205054fd6e5913961919</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>0c602eb7dbaa205054fd6e5913961919</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>80602eb7dbaa205054fd6e591396191a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>84602eb7dbaa205054fd6e5913961919</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>84602eb7dbaa205054fd6e591396191a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>88602eb7dbaa205054fd6e5913961919</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>8c602eb7dbaa205054fd6e5913961918</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">84602eb7dbaa205054fd6e5913961918</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-04 13:15:38</sys_created_on>
+<sys_id>8c602eb7dbaa205054fd6e5913961919</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-04 13:15:38</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Home office</is>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>41f44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:31</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>This morning</is>
+<is_not>Before today</is_not>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>45f44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:31</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>49f44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:59:22</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>4df44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:59:22</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>c1f44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:59:22</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Laptop</is>
+<is_not>Mouse</is_not>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>c5f44a32db0ad01054fd6e591396190f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:31</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Got wet</is>
+<is_not>Dry</is_not>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>c5f44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:31</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>c9f44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:59:22</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>cdf44a32db0ad01054fd6e591396190f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:59:22</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:59:22</sys_created_on>
+<sys_id>cdf44a32db0ad01054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:59:22</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Installed in early Jan</changes>
+<distinctions>Version 8.0 of UCL</distinctions>
+<explain_1/>
+<explain_2>A - This server is overloaded</explain_2>
+<explain_3>A - Patch installed on this server</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Network wizard server</is>
+<is_not>Other servers</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>10af6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>A - Patch date</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Appr. Jan 8</is>
+<is_not>Before or after</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>14af6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>A - This must be when memory is needed</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Approximately 60 seconds after Network Wizard is started up</is>
+<is_not>Before or after the Network Wizard has been running 60 seconds</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>18af6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2>A - During the heaviest period</explain_2>
+<explain_3>A - During heaviest period</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>One per day/server</is>
+<is_not>&gt;1 per day/server</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>1caf6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>NKC</changes>
+<distinctions>Use UCL</distinctions>
+<explain_1/>
+<explain_2>Y - Trip ticks requires more CPU</explain_2>
+<explain_3>Y - Trip ticks requires more CPU</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Trip Ticks</is>
+<is_not>Commander, REAL Session</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:43:17</sys_created_on>
+<sys_id>34a13732db2a6c1054fd6e59139619f2</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Installed in early Jan</changes>
+<distinctions>Version 8.0 of UCL</distinctions>
+<explain_1/>
+<explain_2>A - Roadmaster server only</explain_2>
+<explain_3>A - This server patched</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Roadmaster express</is>
+<is_not>Other customers using Network wizard</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:50:11</sys_created_on>
+<sys_id>7a1477f2db2a6c1054fd6e59139619da</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>A - Utilization report must access same RAM</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>NMS utilization report</is>
+<is_not>Transport system, secure site commander</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>90af6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Fix list 3.1 implemented</changes>
+<distinctions>Patch vs. new install</distinctions>
+<explain_1>N - Why one version not the other?</explain_1>
+<explain_2>Y - still shared on upgrade</explain_2>
+<explain_3>A - New version has issue</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Z/OS v12.4</is>
+<is_not>Z/OS v12.3</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>94af6732db2a6c1054fd6e59139619f2</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>A - Memory leaks continue overnight</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>When started each morning (periodic)</is>
+<is_not>Continuous, sporadic</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>94af6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2>A - Process must require most CPU</explain_2>
+<explain_3>A - Process must require most CPU</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>One process</is>
+<is_not>Multiple processes</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>98af6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2>A - Resources are starved</explain_2>
+<explain_3>A - based on amount of leak</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>90% utilization</is>
+<is_not>Crashing, hanging, tracebacks</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>9caf6732db2a6c1054fd6e59139619f2</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>A - Once threshold is reached, stays</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Staying the same</is>
+<is_not>Getting worse, getting better, fluctuating</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:27:58</sys_created_on>
+<sys_id>9caf6732db2a6c1054fd6e59139619f3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Upgraded Dec 15</changes>
+<distinctions>New code to generate addtional SMF records</distinctions>
+<explain_1/>
+<explain_2>N - Why one version not the other?</explain_2>
+<explain_3>Y - Newest release has patch</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Network Wizard 4.0</is>
+<is_not>Network wizard 3.0</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:44:54</sys_created_on>
+<sys_id>cd237332db2a6c1054fd6e59139619a4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>NKC</changes>
+<distinctions>Transported by truck</distinctions>
+<explain_1/>
+<explain_2/>
+<explain_3>Y - this is location of server</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>London data center</is>
+<is_not>Singapore or Chicago data centers</is_not>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:50:11</sys_created_on>
+<sys_id>e4833732db2a6c1054fd6e59139619f6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 16:59:47</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>62e0f2eadbcbe49054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 13:46:53</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>MDE</is>
+<is_not/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>6ae0f2eadbcbe49054fd6e591396190f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1>A1 Nur in Reihe 1</explain_1>
+<explain_2>A1 Nur auf der Zuckerseite verbogen</explain_2>
+<explain_3>Nein, sonst alle betroffen</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Zuckerkrapfen</is>
+<is_not>Natur, Glasurkrapfen</is_not>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>6ee0f2eadbcbe49054fd6e591396190e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1>Ja</explain_1>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Nach dem Schneiden</is>
+<is_not>Später im Prozess</is_not>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>6ee0f2eadbcbe49054fd6e591396190f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1>Ja</explain_1>
+<explain_2>Ja</explain_2>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Abgerundete Kante</is>
+<is_not/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>e2e0f2eadbcbe49054fd6e591396190f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>e2e0f2eadbcbe49054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 13:46:53</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1>Ja</explain_1>
+<explain_2>Nein, da außen keine Klinge ist</explain_2>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Außenkante</is>
+<is_not>Innenkanten</is_not>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>e6e0f2eadbcbe49054fd6e591396190f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1>Ja</explain_1>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>Durchgehend</is>
+<is_not>Periodisch, Sporadisch</is_not>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>eae0f2eadbcbe49054fd6e591396190f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:53</sys_created_on>
+<sys_id>eee0f2eadbcbe49054fd6e591396190f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 13:46:53</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>609a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>649a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>709a2af6dbe60410a75cdd3b5e961924</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>789a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>7c9a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>e09a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>e49a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>ec9a2af6dbe60410a75cdd3b5e961922</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>f89a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">a89a2af6dbe60410a75cdd3b5e961922</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:03:58</sys_created_on>
+<sys_id>fc9a2af6dbe60410a75cdd3b5e961923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:03:58</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:22</sys_created_on>
+<sys_id>731affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:22</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:23</sys_created_on>
+<sys_id>771affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:23</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:23</sys_created_on>
+<sys_id>7b1affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:23</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:22</sys_created_on>
+<sys_id>7f1affaadbac651054fd6e5913961956</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:22</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:23</sys_created_on>
+<sys_id>7f1affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:23</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:22</sys_created_on>
+<sys_id>b71affaadbac651054fd6e5913961956</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:22</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:22</sys_created_on>
+<sys_id>f31affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:22</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:23</sys_created_on>
+<sys_id>f71affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:23</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:23</sys_created_on>
+<sys_id>fb1affaadbac651054fd6e5913961957</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:23</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">bf1affaadbac651054fd6e5913961955</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-25 21:14:22</sys_created_on>
+<sys_id>ff1affaadbac651054fd6e5913961956</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-25 21:14:22</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3>7</explain_3>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>40a659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:37</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>40a659011ba06110590c8664604bcb64</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>44a659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>48a659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>4ca659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>c0a659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>c4a659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>3</is>
+<is_not>4</is_not>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>c8a659011ba06110590c8664604bcb62</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:37</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>c8a659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001026">c0a659011ba06110590c8664604bcb62</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:09</sys_created_on>
+<sys_id>cca659011ba06110590c8664604bcb63</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:09</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:19</sys_created_on>
+<sys_id>4172dd09dbac6c5073b4a37648961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:19</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>4172dd09dbac6c5073b4a37648961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>4572dd09dbac6c5073b4a37648961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>4972dd09dbac6c5073b4a37648961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>4972dd09dbac6c5073b4a37648961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>4d72dd09dbac6c5073b4a37648961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>c172dd09dbac6c5073b4a37648961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>c572dd09dbac6c5073b4a37648961974</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>c972dd09dbac6c5073b4a37648961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001015">c972dd09dbac6c5073b4a37648961972</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:26:20</sys_created_on>
+<sys_id>cd72dd09dbac6c5073b4a37648961973</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:26:20</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>614aaaf6dbe60410a75cdd3b5e9619af</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>614aaaf6dbe60410a75cdd3b5e9619b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>654aaaf6dbe60410a75cdd3b5e9619b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>694aaaf6dbe60410a75cdd3b5e9619af</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>694aaaf6dbe60410a75cdd3b5e9619b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>6d4aaaf6dbe60410a75cdd3b5e9619af</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>e14aaaf6dbe60410a75cdd3b5e9619b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>e54aaaf6dbe60410a75cdd3b5e9619b0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>e94aaaf6dbe60410a75cdd3b5e9619af</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">d54aaaf6dbe60410a75cdd3b5e9619ae</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:39</sys_created_on>
+<sys_id>ed4aaaf6dbe60410a75cdd3b5e9619af</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 19:02:39</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>30ad5a7adbc2201073b4a3764896198f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>34ad5a7adbc2201073b4a3764896198e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>34ad5a7adbc2201073b4a3764896198f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>38ad5a7adbc2201073b4a3764896198e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>3cad5a7adbc2201073b4a3764896198d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>3cad5a7adbc2201073b4a3764896198e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>b0ad5a7adbc2201073b4a3764896198f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>b4ad5a7adbc2201073b4a3764896198e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>b8ad5a7adbc2201073b4a3764896198e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="">f0ad5a7adbc2201073b4a3764896198d</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:58:21</sys_created_on>
+<sys_id>bcad5a7adbc2201073b4a3764896198e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:58:21</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes>Demo</changes>
+<distinctions>Demo1</distinctions>
+<explain_1>demo1</explain_1>
+<explain_2>demo12</explain_2>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is>DemoIS</is>
+<is_not>DemoISNOTE</is_not>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>7373b687db660410a109597e5e96199d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-02-10 20:18:13</sys_updated_on>
+<type>A1. What Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>7373b687db660410a109597e5e96199e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>C2. When Since</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>7773b687db660410a109597e5e96199e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>D1. Number of Objects and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>7b73b687db660410a109597e5e96199d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>A2. What Deviation</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>7b73b687db660410a109597e5e96199e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>D3. Deviations per Object and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>7f73b687db660410a109597e5e96199d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>B2. Where On The Object</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>f373b687db660410a109597e5e96199e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>C3. When In The Lifecycle</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>f773b687db660410a109597e5e96199e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>D2. Size of Deviations and Trend</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>fb73b687db660410a109597e5e96199d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>B1. Where Geographically</type>
+</x_ket_acm_is_and_is_not>
+<x_ket_acm_is_and_is_not action="INSERT_OR_UPDATE">
+<changes/>
+<distinctions/>
+<explain_1/>
+<explain_2/>
+<explain_3/>
+<explain_4/>
+<explain_5/>
+<explain_6/>
+<is/>
+<is_not/>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<pc_1/>
+<pc_2/>
+<pc_3/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:21:26</sys_created_on>
+<sys_id>ff73b687db660410a109597e5e96199d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:21:26</sys_updated_on>
+<type>C1. When First</type>
+</x_ket_acm_is_and_is_not>
+</unload>

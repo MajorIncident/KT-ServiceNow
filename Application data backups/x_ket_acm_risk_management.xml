@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:26:02">
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_causes_of_implementation_failure>Demo</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001025">502ee0cd1bac2110590c8664604bcbe4</parent>
+<preventive_actions/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:33:04</sys_created_on>
+<sys_id>ec2e648d1bac2110590c8664604bcbc5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+<triggers/>
+</x_ket_acm_risk_management>
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Installiere Kamera im Wärmetunnel</contingent_actions>
+<likely_causes_of_implementation_failure>Kann sich erneut lösen</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001020">6bb49837dbf6649073b4a376489619cf</parent>
+<preventive_actions>Überarbeite Gewinde</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>9cc45437dbf6649073b4a37648961918</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<triggers>-</triggers>
+</x_ket_acm_risk_management>
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_causes_of_implementation_failure>Butterfingers</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001011">8df44a32db0ad01054fd6e591396190e</parent>
+<preventive_actions>Wash hands</preventive_actions>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 16:02:31</sys_created_on>
+<sys_id>75f40efedbc6d01054fd6e5913961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:31</sys_updated_on>
+<triggers/>
+</x_ket_acm_risk_management>
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Pull the hotfix</contingent_actions>
+<likely_causes_of_implementation_failure>New patch Introduces additional problems</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<preventive_actions>In House and some client testing</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>0fc737f6db2a6c1054fd6e59139619bc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:05:38</sys_updated_on>
+<triggers>Initial testing shows 2nd issue</triggers>
+</x_ket_acm_risk_management>
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>reassure clients the issue is in control</contingent_actions>
+<likely_causes_of_implementation_failure>Patches reported negatively in the news</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001018">9caf6732db2a6c1054fd6e59139619f1</parent>
+<preventive_actions>proactive positive press release</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 17:05:38</sys_created_on>
+<sys_id>72e63bb6db2a6c1054fd6e59139619ea</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-01 17:15:02</sys_updated_on>
+<triggers>Client complains to account manager</triggers>
+</x_ket_acm_risk_management>
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Kamera im Wärmetunnel</contingent_actions>
+<likely_causes_of_implementation_failure>Löst sich erneut</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001023">a2e0f2eadbcbe49054fd6e591396190e</parent>
+<preventive_actions>Neues stärkeres Gewinde</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>17e0beaadbcbe49054fd6e59139619b5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<triggers/>
+</x_ket_acm_risk_management>
+<x_ket_acm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>dDeo</contingent_actions>
+<likely_causes_of_implementation_failure>Sdemo</likely_causes_of_implementation_failure>
+<parent display_value="KTACM0001010">f773b687db660410a109597e5e96199c</parent>
+<preventive_actions>Demo</preventive_actions>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-02-10 20:18:57</sys_created_on>
+<sys_id>fb387d0bdb760010a109597e5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-02-10 20:18:57</sys_updated_on>
+<triggers/>
+</x_ket_acm_risk_management>
+</unload>

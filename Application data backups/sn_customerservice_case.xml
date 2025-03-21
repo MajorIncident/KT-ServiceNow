@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-20 03:52:04">
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Test 1​CS0001025</case>
+<case_report display_value="CSR0010020">39d8811b1bf52110590c8664604bcb01</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001025</number>
+<opened_at>2023-03-30 19:33:39</opened_at>
+<opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Test 1</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:33:45</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>dcd8411b1bf52110590c8664604bcb8d</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:34:34</sys_updated_on>
+<task_effective_number>CS0001025</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>dcd8411b1bf52110590c8664604bcb8d</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:34:34</sys_created_on>
+<sys_id>f1090dd71bf52110590c8664604bcb7b</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=7ce8451b1bf52110590c8664604bcb04'&gt;KTACM0001032&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Tst case 1​CS0001024</case>
+<case_report display_value="CSR0010019">dca689dbdb35211054fd6e5913961980</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001024</number>
+<opened_at>2023-03-30 19:23:55</opened_at>
+<opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Tst case 1</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:05</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>75968d531bf52110590c8664604bcb56</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:24:36</sys_updated_on>
+<task_effective_number>CS0001024</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>75968d531bf52110590c8664604bcb56</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:24:36</sys_created_on>
+<sys_id>ffb689531bf52110590c8664604bcbc7</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=43a681931bf52110590c8664604bcbaf'&gt;KTACM0001031&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value="Kepner-Tregoe">d05c56f3dbaa205054fd6e59139619e7</account>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Case 1​CS0001023</case>
+<case_report display_value="CSR0010018">92ba33badbb5a91054fd6e59139619c8</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001023</number>
+<opened_at>2023-03-29 19:13:28</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value="Iris 5875">5f5fbcc3c0a8010e00f3b27814f3b96b</product>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Case 1</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-03-29 19:13:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3a9a7b7adbb5a91054fd6e5913961987</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-03-29 19:13:56</sys_updated_on>
+<task_effective_number>CS0001023</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Tokyo test​CS0001020</case>
+<case_report display_value="CSR0010016">5d969dc5db24611054fd6e5913961985</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001020</number>
+<opened_at>2023-01-20 17:28:48</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Tokyo test</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>10</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:28:58</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a68615011ba06110590c8664604bcbe1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:29:37</sys_updated_on>
+<task_effective_number>CS0001020</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>a68615011ba06110590c8664604bcbe1</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:29:37</sys_created_on>
+<sys_id>3eb651011ba06110590c8664604bcbc6</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=c0a659011ba06110590c8664604bcb62'&gt;KTACM0001026&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Tokyo demo 1​CS0001019</case>
+<case_report display_value="CSR0010015">9d1ea48ddb60611054fd6e59139619fc</case_report>
+<category>1</category>
+<cause>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Demo</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001019</number>
+<opened_at>2023-01-20 14:31:35</opened_at>
+<opened_by display_value="ITIL User">681b365ec0a80164000fb0b05854a0cd</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Tokyo demo 1</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:32:01</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3afdac8d1bac2110590c8664604bcbe2</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:33:04</sys_updated_on>
+<task_effective_number>CS0001019</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>3afdac8d1bac2110590c8664604bcbe2</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:33:04</sys_created_on>
+<sys_id>d45e64cd1bac2110590c8664604bcbf3</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=502ee0cd1bac2110590c8664604bcbe4'&gt;KTACM0001025&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Ausschuss bei den Zuckerkrapfen​CS0001017</case>
+<case_report display_value="CSR0010014">d6d072eadbcbe49054fd6e5913961932</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001017</number>
+<opened_at>2021-03-25 13:46:21</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Ausschuss bei den Zuckerkrapfen</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>10</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 13:46:35</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>aec032eadbcbe49054fd6e591396195f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 14:38:54</sys_updated_on>
+<task_effective_number>CS0001017</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>aec032eadbcbe49054fd6e591396195f</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 14:38:54</sys_created_on>
+<sys_id>a0dcf266db0fe49054fd6e591396194d</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=a2e0f2eadbcbe49054fd6e591396190e'&gt;KTACM0001023&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Zuckerkrapfen-Problem mit Kunde Walther​CS0001016</case>
+<case_report display_value="CSR0010013">15c08622db4be49054fd6e59139619ea</case_report>
+<category>1</category>
+<cause>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Demo</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001016</number>
+<opened_at>2021-03-25 10:15:53</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Zuckerkrapfen-Problem mit Kunde Walther</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>10</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 10:16:31</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>ef904622db4be49054fd6e591396190b</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2023-04-26 18:28:33</sys_updated_on>
+<task_effective_number>CS0001016</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>ef904622db4be49054fd6e591396190b</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2023-04-26 18:28:32</sys_created_on>
+<sys_id>31dcbb3f1b5261d0590c8664604bcbe9</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=9bcc7b3f1b5261d0590c8664604bcb03'&gt;KTACM0001033&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>25% Ausschuss bei den Krapfen ​CS0001015</case>
+<case_report display_value="CSR0010012">3a58695edb0fac9073b4a3764896193c</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001015</number>
+<opened_at>2021-03-24 13:50:51</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>25% Ausschuss bei den Krapfen </short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>10</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 13:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c7386556db4ba49054fd6e5913961987</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 13:51:21</sys_updated_on>
+<task_effective_number>CS0001015</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Donut reject at 25%​CS0001014</case>
+<case_report display_value="CSR0010011">3d84d877db7e6c5054fd6e59139619ce</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001014</number>
+<opened_at>2021-03-16 13:20:01</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>2</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Donut reject at 25%</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>10</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 13:20:18</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>1974dcf3dbf6649073b4a376489619a4</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-16 17:33:28</sys_updated_on>
+<task_effective_number>CS0001014</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>1974dcf3dbf6649073b4a376489619a4</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-16 17:33:28</sys_created_on>
+<sys_id>027ec13bdbba649073b4a376489619f3</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=6bb49837dbf6649073b4a376489619cf'&gt;KTACM0001020&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on>2021-03-01 16:27:50</assigned_on>
+<assigned_to display_value="Christoph Goldenstern">a86f6332db2a6c1054fd6e591396193a</assigned_to>
+<assignment_group display_value="Consumer Service Support" name="Consumer Service Support">6d804419c333120071d07bfaa2d3ae85</assignment_group>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Network wizard is using excessive resources​CS0001011</case>
+<case_report display_value="CSR0010009">f60feff6dba2245073b4a376489619dc</case_report>
+<category>1</category>
+<cause>KT analysis performed
+&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Version 12.4 patch instances introduce a memory leak into the network wizard application</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes>KT analysis performed
+&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Send patch to development and ask for hotfix to be released</close_notes>
+<closed_at>2021-04-30 16:09:29</closed_at>
+<closed_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</closed_by>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>phone</contact_type>
+<contract display_value=""/>
+<contributor_groups name="Service Desk">d625dccec0a8016700a222a0f7900d06</contributor_groups>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001011</number>
+<opened_at>2021-03-01 16:25:15</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>2</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>1</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code>1</resolution_code>
+<resolved_at>2021-04-23 16:09:20</resolved_at>
+<resolved_by display_value="Christoph Goldenstern">d709fff6db2a6c1054fd6e5913961908</resolved_by>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Network wizard is using excessive resources</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>10</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:25:24</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9c0f2bfedbe66c1054fd6e59139619a2</sys_id>
+<sys_mod_count>8</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-10-05 22:37:37</sys_updated_on>
+<task_effective_number>CS0001011</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>9c0f2bfedbe66c1054fd6e59139619a2</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-01 16:36:42</sys_created_on>
+<sys_id>08a13f32db2a6c1054fd6e5913961985</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=9caf6732db2a6c1054fd6e59139619f1'&gt;KTACM0001018&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>test​CS0001006</case>
+<case_report display_value="CSR0010006">2250def6db86d01073b4a37648961986</case_report>
+<category>1</category>
+<cause>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+123</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+123</close_notes>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001006</number>
+<opened_at>2020-07-20 16:49:04</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>test</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:09</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d1501ef6db86d01073b4a37648961921</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:49:23</sys_updated_on>
+<task_effective_number>CS0001006</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>d1501ef6db86d01073b4a37648961921</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:49:23</sys_created_on>
+<sys_id>0e60def6db86d01073b4a376489619e2</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=5060daf6db86d01073b4a376489619e7'&gt;KTACM0001013&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>​CS0001005</case>
+<case_report display_value="CSR0010005">17cfca7adb0ad01054fd6e5913961948</case_report>
+<category>1</category>
+<cause>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+sasasas</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+asas</close_notes>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001005</number>
+<opened_at>2020-07-20 16:46:37</opened_at>
+<opened_by display_value="Christoph Goldenstern">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description/>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:46:43</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a5cf42f6db86d01073b4a3764896193d</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:47:47</sys_updated_on>
+<task_effective_number>CS0001005</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>a5cf42f6db86d01073b4a3764896193d</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:47:47</sys_created_on>
+<sys_id>92005eb6db86d01073b4a37648961955</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=4bff86b6db86d01073b4a37648961940'&gt;KTACM0001012&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value="Hardware" name="Hardware">8a5055c9c61122780043563ef53438e3</assignment_group>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Paris demo 1​CS0001004</case>
+<case_report display_value="CSR0010004">50c40632db0ad01054fd6e59139619b0</case_report>
+<category>1</category>
+<cause>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Paris true cause demo1</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Paris proposed fix demo1</close_notes>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001004</number>
+<opened_at>2020-07-20 15:57:22</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Paris demo 1</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:58:28</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>ff748efedbc6d01054fd6e591396196d</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 16:02:57</sys_updated_on>
+<task_effective_number>CS0001004</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>ff748efedbc6d01054fd6e591396196d</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 16:02:31</sys_created_on>
+<sys_id>d3a58272db0ad01054fd6e5913961997</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=8df44a32db0ad01054fd6e591396190e'&gt;KTACM0001011&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value="Database" name="Database">287ee6fea9fe198100ada7950d0b1b73</assignment_group>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Dmo 2​CS0001003</case>
+<case_report display_value="CSR0010003">419e66c3db660410a109597e5e96197f</case_report>
+<category>1</category>
+<cause>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Demo true cause</cause>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes>&lt;--- Rolled up from Advanced Case Analysis (KT) ---&gt;
+Demo proposed fix</close_notes>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001003</number>
+<opened_at>2020-01-29 13:59:24</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Dmo 2</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 13:59:56</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>0d7ea2c3db660410a109597e5e961988</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-29 14:24:44</sys_updated_on>
+<task_effective_number>CS0001003</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>0d7ea2c3db660410a109597e5e961988</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-29 14:24:44</sys_created_on>
+<sys_id>00447287db660410a109597e5e96191b</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=f773b687db660410a109597e5e96199c'&gt;KTACM0001010&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+<sn_customerservice_case action="INSERT_OR_UPDATE">
+<account display_value=""/>
+<active>true</active>
+<active_account_escalation display_value=""/>
+<active_escalation display_value=""/>
+<activity_due/>
+<additional_assignee_list/>
+<approval>not requested</approval>
+<approval_history/>
+<approval_set/>
+<asset display_value=""/>
+<assigned_on/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<auto_close>false</auto_close>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<case>Dmo 1​CS0001001</case>
+<case_report display_value="CSR0010002">743aea76dbeac010a109597e5e96199f</case_report>
+<category>1</category>
+<cause/>
+<caused_by display_value=""/>
+<change display_value=""/>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<consumer display_value=""/>
+<consumer_profile display_value=""/>
+<contact display_value=""/>
+<contact_local_time/>
+<contact_time_zone/>
+<contact_type>web</contact_type>
+<contract display_value=""/>
+<contributor_groups/>
+<contributor_users/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date/>
+<entitlement display_value=""/>
+<escalation>0</escalation>
+<expected_start/>
+<first_response_time/>
+<follow_the_sun>false</follow_the_sun>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<internal_user display_value=""/>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<notes_to_comments>false</notes_to_comments>
+<notify>1</notify>
+<number>CS0001001</number>
+<opened_at>2020-01-28 19:02:01</opened_at>
+<opened_by display_value="Jerome Bochnak">2915f6bc0f2c0f00293787ece1050ec8</opened_by>
+<order/>
+<parent display_value=""/>
+<partner display_value=""/>
+<partner_contact display_value=""/>
+<priority>4</priority>
+<proactive>false</proactive>
+<problem display_value=""/>
+<product display_value=""/>
+<reassignment_count>0</reassignment_count>
+<rejection_goto display_value=""/>
+<related_party_consumers/>
+<related_party_users/>
+<resolution_code/>
+<resolved_at/>
+<resolved_by display_value=""/>
+<route_reason/>
+<service_offering display_value=""/>
+<short_description>Dmo 1</short_description>
+<skills/>
+<sla_due/>
+<sn_app_cs_social_social_profile display_value=""/>
+<state>1</state>
+<subcategory>0</subcategory>
+<support_manager display_value=""/>
+<sync_driver>false</sync_driver>
+<sys_class_name>sn_customerservice_case</sys_class_name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 19:02:19</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>5c2a66f6dbe60410a75cdd3b5e96199b</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-01-28 21:20:54</sys_updated_on>
+<task_effective_number>CS0001001</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sn_customerservice_case>
+<sys_journal_field action="INSERT_OR_UPDATE">
+<element>work_notes</element>
+<element_id>5c2a66f6dbe60410a75cdd3b5e96199b</element_id>
+<name>sn_customerservice_case</name>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-01-28 21:20:54</sys_created_on>
+<sys_id>6ae9cbbadb2a0410a75cdd3b5e961914</sys_id>
+<value>Case Task [code]&lt;a href='/x_ket_acm_case_analysis.do?sys_id=58e943fedb2a0410a75cdd3b5e96194d'&gt;KTACM0001009&lt;/a&gt;[/code] has been created</value>
+</sys_journal_field>
+</unload>

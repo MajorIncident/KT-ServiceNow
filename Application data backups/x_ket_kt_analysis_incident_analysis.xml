@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-20 03:58:49">
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001214</number>
+<parent display_value="INC0010204">c1580d971bf52110590c8664604bcb0d</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:32:20</sys_created_on>
+<sys_id>0168c1d71bf52110590c8664604bcb2a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:32:20</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001213</number>
+<parent display_value="INC0010202">c6e549131bf52110590c8664604bcbef</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:21:25</sys_created_on>
+<sys_id>b0f541131bf52110590c8664604bcb7f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:21:25</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</incident_lead>
+<number>KTIA0001212</number>
+<parent display_value="INC0010201">248585df1bb52110590c8664604bcbe8</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:19:49</sys_created_on>
+<sys_id>5e9541131bf52110590c8664604bcb4b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:19:49</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001211</number>
+<parent display_value="INC0010196">a90de37adb75a91054fd6e59139619d6</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-29 18:14:32</sys_created_on>
+<sys_id>1a1de7badb75a91054fd6e591396194d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-29 18:14:32</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001207</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 11:08:57</sys_created_on>
+<sys_id>6192f9381bb06150590c8664604bcbfe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 11:08:57</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001205</number>
+<parent display_value="INC0010191">fda59d8d1b606110590c8664604bcb7a</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:26:30</sys_created_on>
+<sys_id>19b5dd8d1b606110590c8664604bcb42</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:26:30</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value="Access">0c43bab9c61122750182c13266df9d09</configuration_item>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001204</number>
+<parent display_value="INC0010190">df8828c51bac2110590c8664604bcbfb</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:18:01</sys_created_on>
+<sys_id>45da68891bac2110590c8664604bcbba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:18:01</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001196</number>
+<parent display_value="INC0010187">efa48581db90195054fd6e59139619a6</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-06-23 12:37:42</sys_created_on>
+<sys_id>ea6c6d85db54195054fd6e59139619c1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-06-23 12:37:42</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001188</number>
+<parent display_value="INC0010186">7df4862bdb13451054fd6e5913961989</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-12 15:47:37</sys_created_on>
+<sys_id>f005c22bdb13451054fd6e59139619fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-12 15:47:37</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001187</number>
+<parent display_value="INC0010185">3cd3cea7db13451054fd6e591396198f</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-12 15:44:37</sys_created_on>
+<sys_id>b7f306e7db13451054fd6e59139619bf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-12 15:44:37</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001186</number>
+<parent display_value="INC0010184">906364cd1b9e4910590c8664604bcba3</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-15 21:14:38</sys_created_on>
+<sys_id>fb7360411bde4910590c8664604bcb5b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-15 21:14:38</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001185</number>
+<parent display_value="INC0010174">f6267699dbe6ac1073b4a376489619bf</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-06-01 15:13:13</sys_created_on>
+<sys_id>d8cf01ec1b6cf050590c8664604bcb4a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-06-01 15:13:13</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value="Jewel Agresta">02826bf03710200044e0bfc8bcbe5d64</incident_coordinator>
+<incident_lead display_value="Dorthy Alexy">8a826bf03710200044e0bfc8bcbe5d84</incident_lead>
+<number>KTIA0001184</number>
+<parent display_value="INC0010183">da60d3431b1cbc10590c8664604bcb3d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-28 08:40:48</sys_created_on>
+<sys_id>009097431b1cbc10590c8664604bcb9a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-28 08:40:48</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001183</number>
+<parent display_value="INC0010182">10bc19f21b807c50590c8664604bcbd0</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-14 19:21:20</sys_created_on>
+<sys_id>f3cc1df21b807c50590c8664604bcb0b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-14 19:21:20</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001182</number>
+<parent display_value="INC0010181">7d01d946db00709054fd6e591396196f</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 10:34:40</sys_created_on>
+<sys_id>d031dd46db00709054fd6e59139619f4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 10:34:40</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001180</number>
+<parent display_value="INC0010175">f0fee977db3e649073b4a37648961982</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 08:32:38</sys_created_on>
+<sys_id>c445784edb8c309054fd6e591396196a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 08:32:38</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001179</number>
+<parent display_value="M">0a325024db80a7005d305878dc961925</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 08:28:37</sys_created_on>
+<sys_id>ed54b80edb8c309054fd6e5913961960</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 08:28:37</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001177</number>
+<parent display_value="INC0010178">672fe8c6db8c309054fd6e591396197b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 08:06:37</sys_created_on>
+<sys_id>785facc6db8c309054fd6e591396195c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 08:06:37</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001173</number>
+<parent display_value="INC0000052">d7195138c0a8016700fd68449cfcd484</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 09:38:31</sys_created_on>
+<sys_id>6b31796adbc7e49054fd6e59139619ad</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 09:38:31</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001170</number>
+<parent display_value="INC0000015">46e2fee9a9fe19810049b49dee0daf58</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 09:55:51</sys_created_on>
+<sys_id>7b62f016dbc7a49054fd6e59139619e8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 09:55:51</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001169</number>
+<parent display_value="INC0000041">471eb058a9fe198100f89592e1ea93d3</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-24 09:54:44</sys_created_on>
+<sys_id>4f22b456dbc7a49054fd6e591396191e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-24 09:54:44</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001155</number>
+<parent display_value="INC0010167">b19f1549dbac6c5073b4a37648961912</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:28:20</sys_created_on>
+<sys_id>b6102585dbec6c5073b4a37648961968</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:28:20</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001153</number>
+<parent display_value="INC0010166">e53151c5dbac6c5073b4a37648961929</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:21:18</sys_created_on>
+<sys_id>114159c5dbac6c5073b4a376489619d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:21:18</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001152</number>
+<parent display_value="INC0010165">44cf0d45dbac6c5073b4a376489619ca</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:16:42</sys_created_on>
+<sys_id>dd109185dbac6c5073b4a3764896195d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:16:42</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value="Problem Administrator">26fbff173b331300ad3cc9bb34efc4bd</assigned_to>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value="Problem Administrator">26fbff173b331300ad3cc9bb34efc4bd</incident_coordinator>
+<incident_lead display_value="Problem Administrator">26fbff173b331300ad3cc9bb34efc4bd</incident_lead>
+<number>KTIA0001147</number>
+<parent display_value="INC0010163">ec216587dbba1c9054fd6e59139619ea</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-27 15:02:42</sys_created_on>
+<sys_id>eef3290bdbba1c9054fd6e591396199c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-27 15:02:42</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001145</number>
+<parent display_value="INC0010161">e899f565dba2985054fd6e591396195d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-10 14:35:43</sys_created_on>
+<sys_id>b5b9796ddba2985054fd6e591396194c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-10 14:35:43</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001144</number>
+<parent display_value="INC0010160">e3b0f92ddb62985054fd6e5913961936</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-10 13:50:49</sys_created_on>
+<sys_id>47d0fd65dba2985054fd6e591396192b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-10 13:50:49</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001143</number>
+<parent display_value="INC0010159">aab5af33db9a145054fd6e59139619c8</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-05 12:07:27</sys_created_on>
+<sys_id>57c52fb7db9a145054fd6e59139619ce</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-05 12:07:27</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001142</number>
+<parent display_value="INC0010158">b08fbe67db5ad05054fd6e5913961936</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-04 14:28:22</sys_created_on>
+<sys_id>a79f7eafdb9ad05054fd6e5913961902</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-04 14:28:22</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001141</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 21:49:45</sys_created_on>
+<sys_id>d05b9b9fdbd6145073b4a3764896195c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 21:49:45</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001140</number>
+<parent display_value="INC0010153">912cc753db9e905054fd6e59139619d4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:50:50</sys_created_on>
+<sys_id>db7c0393db9e905054fd6e591396197d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:50:50</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value="*ANNIE-IBM">b4fd7c8437201000deeabfc8bcbe5dc1</configuration_item>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001138</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:40:26</sys_created_on>
+<sys_id>aa1e4276db86d01073b4a37648961955</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:40:59</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value="*BOW-IBM">25fd3c8437201000deeabfc8bcbe5dea</configuration_item>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001137</number>
+<parent display_value="INC0010150">0ab0cefadbc6d01054fd6e591396192c</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:47:03</sys_created_on>
+<sys_id>ff01463edbc6d01054fd6e5913961910</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:47:03</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001136</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-28 07:53:26</sys_created_on>
+<sys_id>307953a1dbc99810a75cdd3b5e9619e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-28 07:53:26</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001135</number>
+<parent display_value="INC0010149">fd11528bdb38d010a75cdd3b5e96198a</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-20 08:12:50</sys_created_on>
+<sys_id>8f21568bdb38d010a75cdd3b5e9619fb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-20 08:12:50</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001133</number>
+<parent display_value="INC0010144">c7a81ccedb601010a109597e5e961981</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-04 10:39:31</sys_created_on>
+<sys_id>bd099ccedb601010a109597e5e961935</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-04 10:39:31</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001129</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-01-13 21:12:30</sys_created_on>
+<sys_id>88e77d4edbd68810a75cdd3b5e961948</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-01-13 21:12:30</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001128</number>
+<parent display_value="INC0010125">f1e78928db40c8905d305878dc96190b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-25 13:21:18</sys_created_on>
+<sys_id>ff1577c6dbd94410a109597e5e961908</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-25 13:21:18</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001127</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-25 09:27:06</sys_created_on>
+<sys_id>32ff364edbd94410a75cdd3b5e9619d4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-25 09:27:06</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001118</number>
+<parent display_value="INC0010128">b8dbbba0db0cc8905d305878dc961999</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-09-19 18:59:29</sys_created_on>
+<sys_id>1c4184b0db0cc8905d305878dc961937</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-09-19 18:59:29</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001115</number>
+<parent display_value="INC0010122">451296f6db52b740a75cdd3b5e961988</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-09-19 12:31:30</sys_created_on>
+<sys_id>a0686ea0dbc4c8905d305878dc9619a2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-09-19 12:31:30</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001113</number>
+<parent display_value="INC0010124">c113280fdbdf3b00a75cdd3b5e961972</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-20 14:29:16</sys_created_on>
+<sys_id>8753a44fdbdf3b00a75cdd3b5e9619c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-20 14:29:16</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001111</number>
+<parent display_value="INC0010123">51d17c72dbd33b00a75cdd3b5e9619e8</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 20:53:21</sys_created_on>
+<sys_id>67d13cfadb933b00a75cdd3b5e961985</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 20:53:21</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001107</number>
+<parent display_value="INC0010121">51fbb96bdb9d7f40a75cdd3b5e96192a</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-05-15 00:06:24</sys_created_on>
+<sys_id>580cfd2bdb9d7f40a75cdd3b5e961943</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-05-15 00:06:24</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001106</number>
+<parent display_value=""/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-05-14 23:59:54</sys_created_on>
+<sys_id>0d8a7d2bdb9d7f40a75cdd3b5e9619b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-05-14 23:59:54</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001105</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-06 23:19:22</sys_created_on>
+<sys_id>b474ec0ddb5d7b405d305878dc96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-06 23:19:22</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001104</number>
+<parent display_value="INC0010118">bf3fc6a6db4df3405d305878dc96196f</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-04-29 12:43:00</sys_created_on>
+<sys_id>d05f86a6db4df3405d305878dc961969</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-04-29 12:43:00</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001103</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-25 15:55:07</sys_created_on>
+<sys_id>3c35de15dbc933405d305878dc9619e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-25 15:55:07</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001102</number>
+<parent display_value="INC0010116">196cdcd7dba07300a75cdd3b5e9619aa</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-04-06 15:44:26</sys_created_on>
+<sys_id>ee8cd01bdba07300a75cdd3b5e961952</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-04-06 15:44:26</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001071</number>
+<parent display_value="INC0010075">935287cedbc023005d305878dc961998</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-22 13:56:32</sys_created_on>
+<sys_id>a6c2c78edbc023005d305878dc9619e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-22 13:56:32</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001069</number>
+<parent display_value="INC0010073">08c60d79dbcceb00a75cdd3b5e961996</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-21 11:05:23</sys_created_on>
+<sys_id>ee2fcd39dbcceb00a75cdd3b5e961927</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-21 11:05:23</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value="Chris Royals">69908ce8db40a7005d305878dc9619ab</assigned_to>
+<assignment_group display_value="Incident Management" name="Incident Management">0b62fc8bdb137b00a75cdd3b5e96197c</assignment_group>
+<configuration_item display_value="382735F5AD9E492">46b673c6a9fe1981016c72cc01ac53c2</configuration_item>
+<incident_coordinator display_value="Jewel Agresta">02826bf03710200044e0bfc8bcbe5d64</incident_coordinator>
+<incident_lead display_value="Chris Royals">69908ce8db40a7005d305878dc9619ab</incident_lead>
+<number>KTIA0001067</number>
+<parent display_value="INC0010167">b19f1549dbac6c5073b4a37648961912</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 09:20:24</sys_created_on>
+<sys_id>13621424db80a7005d305878dc961923</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-02 11:01:50</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001063</number>
+<parent display_value="INC0010070">89218ce8db40a7005d305878dc961993</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 08:07:29</sys_created_on>
+<sys_id>f3f1846cdb40a7005d305878dc961930</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-17 08:07:29</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001056</number>
+<parent display_value="INC0000506">2d9d24a0a5954300964fa3aa9287412c</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2018-04-30 00:36:01</sys_created_on>
+<sys_id>fc56c99ddb7953c0a75cdd3b5e961987</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2018-04-30 00:36:01</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value="Lynda Caraway">8a826bf03710200044e0bfc8bcbe5d72</assigned_to>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value="Michael Barna">45bf96d5db1c5b005d305878dc9619b8</incident_lead>
+<number>KTIA0001055</number>
+<parent display_value="INC0010057">92f5ddb6dbd99780a75cdd3b5e96197a</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 21:05:08</sys_created_on>
+<sys_id>9d1611f6dbd99780a75cdd3b5e96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 21:05:08</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value="Michael Barna">45bf96d5db1c5b005d305878dc9619b8</incident_lead>
+<number>KTIA0001054</number>
+<parent display_value="INC0010056">a9228d7edb999780a75cdd3b5e96193d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 19:41:39</sys_created_on>
+<sys_id>f59281f2db999780a75cdd3b5e961954</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 19:41:39</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001052</number>
+<parent display_value="INC0010055">140174a9db5557805d305878dc96191b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-05 21:09:25</sys_created_on>
+<sys_id>bb11bc69db5557805d305878dc961990</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-05 21:09:25</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001051</number>
+<parent display_value="INC0010054">9e4fac69db5557805d305878dc961984</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-05 21:02:46</sys_created_on>
+<sys_id>ce9f60a9db5557805d305878dc961968</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-05 21:02:46</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value="Alfonso Griglen">12826bf03710200044e0bfc8bcbe5db1</assigned_to>
+<assignment_group display_value="Capacity Mgmt" name="Capacity Mgmt">aaccc971c0a8001500fe1ff4302de101</assignment_group>
+<configuration_item display_value="*BETH-IBM">affd3c8437201000deeabfc8bcbe5dc3</configuration_item>
+<incident_coordinator display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</incident_coordinator>
+<incident_lead display_value="Sabrina Deppert">b6826bf03710200044e0bfc8bcbe5df8</incident_lead>
+<number>KTIA0001050</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-03-27 13:39:16</sys_created_on>
+<sys_id>5073bca6dbc113805d305878dc9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-27 13:39:16</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value="Michael Barna">45bf96d5db1c5b005d305878dc9619b8</incident_lead>
+<number>KTIA0001047</number>
+<parent display_value="INC0010050">d098a98cdb45db40a75cdd3b5e961967</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-03-19 23:05:32</sys_created_on>
+<sys_id>7ea8a58cdb45db40a75cdd3b5e961994</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-19 23:06:44</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001042</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-03-01 18:59:36</sys_created_on>
+<sys_id>ad734896db2093405d305878dc9619a5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-01 18:59:36</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001041</number>
+<parent display_value="INC0010031">2f4aa61ddb1c5b005d305878dc9619c4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 18:23:17</sys_created_on>
+<sys_id>736aae59db1c5b005d305878dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-14 18:23:17</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value="Colin Altonen">8e826bf03710200044e0bfc8bcbe5d86</incident_coordinator>
+<incident_lead display_value="Michael Barna">45bf96d5db1c5b005d305878dc9619b8</incident_lead>
+<number>KTIA0001040</number>
+<parent display_value="INC0010030">a76d5295db1c5b005d305878dc9619da</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 17:43:45</sys_created_on>
+<sys_id>c1ad565ddbd85b005d305878dc961928</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-14 17:43:45</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001037</number>
+<parent display_value="INC0010025">f2077914db2f4f00a75cdd3b5e96198c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>8a826066dbf30700a75cdd3b5e961958</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001034</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-19 13:27:50</sys_created_on>
+<sys_id>aebea774dbf783005d305878dc96194a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-19 13:27:50</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001025</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-12-12 22:29:52</sys_created_on>
+<sys_id>1e4e35fcdb0f8300a75cdd3b5e961986</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-12-12 22:29:52</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value="Lynda Caraway">8a826bf03710200044e0bfc8bcbe5d72</assigned_to>
+<assignment_group display_value="Network" name="Network">287ebd7da9fe198100f92cc8d1d2154e</assignment_group>
+<configuration_item display_value="Connect">0c43c2b8c61122750182c13253315470</configuration_item>
+<incident_coordinator display_value="Wayne Webb">46d14f04a9fe19810142e40c6b071512</incident_coordinator>
+<incident_lead display_value="Willa Dutt">ba82abf03710200044e0bfc8bcbe5d11</incident_lead>
+<number>KTIA0001018</number>
+<parent display_value="INC0010017">121f7c10db42cf00a75cdd3b5e96194e</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-10-22 11:43:44</sys_created_on>
+<sys_id>60af70d8db02cf00a75cdd3b5e9619e4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-10-22 11:54:54</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001008</number>
+<parent display_value="INC0010012">3fdb0c330f37f240293787ece1050e9b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-13 08:28:05</sys_created_on>
+<sys_id>0ffb0c330f37f240293787ece1050ee9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-07-13 08:28:05</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value="Alfonso Griglen">12826bf03710200044e0bfc8bcbe5db1</assigned_to>
+<assignment_group display_value="Capacity Mgmt" name="Capacity Mgmt">aaccc971c0a8001500fe1ff4302de101</assignment_group>
+<configuration_item display_value="382735F5AD9E492">46b673c6a9fe1981016c72cc01ac53c2</configuration_item>
+<incident_coordinator display_value="Colin Altonen">8e826bf03710200044e0bfc8bcbe5d86</incident_coordinator>
+<incident_lead display_value="Dorthy Alexy">8a826bf03710200044e0bfc8bcbe5d84</incident_lead>
+<number>KTIA0001007</number>
+<parent display_value="INC0010011">b0230c970ff7b240293787ece1050e0b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-11 18:35:43</sys_created_on>
+<sys_id>a5b30c970ff7b240293787ece1050e17</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-07-11 18:35:43</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001004</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-06-29 20:12:39</sys_created_on>
+<sys_id>cee62e930f6b3e00293787ece1050edf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-06-29 20:12:39</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001003</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-06-29 20:10:19</sys_created_on>
+<sys_id>3856e6930f6b3e00293787ece1050e74</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-06-29 20:10:19</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+<x_ket_kt_analysis_incident_analysis action="INSERT_OR_UPDATE">
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<configuration_item display_value=""/>
+<incident_coordinator display_value=""/>
+<incident_lead display_value=""/>
+<number>KTIA0001002</number>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-06-29 14:39:04</sys_created_on>
+<sys_id>1a5a15570fe73e00293787ece1050e04</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-06-29 14:39:04</sys_updated_on>
+</x_ket_kt_analysis_incident_analysis>
+</unload>

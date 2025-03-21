@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:18:53">
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Network is slow</concern>
+<context>Network Wizard CPU Uitlization is 90%</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-10-20 04:21:47</sys_created_on>
+<sys_id>2778852fdbfd4f00a75cdd3b5e9619ed</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-10-20 04:21:47</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find the cause of gaps in paint</action_items>
+<concern>User is having a problem with their PC</concern>
+<context>1025 Microcomputer Cabinet</context>
+<current_impact>6%</current_impact>
+<future_impact>Customers being upset, and management blaming Joe.</future_impact>
+<overall_priority/>
+<parent display_value=""/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-03-11 05:34:57</sys_created_on>
+<sys_id>ac349cfadb047b005d305878dc9619a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-03-11 05:34:57</sys_updated_on>
+<timeframe>ASAP</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Taste</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001214">0168c1d71bf52110590c8664604bcb2a</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-03-30 19:32:20</sys_created_on>
+<sys_id>d568c1d71bf52110590c8664604bcb45</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-03-30 19:32:20</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>1</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001106">0d8a7d2bdb9d7f40a75cdd3b5e9619b4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 14:40:25</sys_created_on>
+<sys_id>d0ac1b6adb9ff700a75cdd3b5e961927</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 14:40:25</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Ensure no press visibility</concern>
+<context>Must avoid news of IT centre being unprotected</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001008">0ffb0c330f37f240293787ece1050ee9</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-03-17 13:20:49</sys_created_on>
+<sys_id>376a0553db709b40a75cdd3b5e9619c6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-17 13:20:49</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Investigate cause and correct</action_items>
+<concern>Osborne bank CIO is very unhappy with this third E117 condition</concern>
+<context>E117 alarm applies to the systems floor, so more serious</context>
+<current_impact>None- alarm has cleared by itself</current_impact>
+<future_impact>E117- sensor inputs not received means that there may be no access control OR fire monitoring during the outage period</future_impact>
+<overall_priority>High</overall_priority>
+<parent display_value="KTIA0001008">0ffb0c330f37f240293787ece1050ee9</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-13 08:28:05</sys_created_on>
+<sys_id>bbfb8c330f37f240293787ece1050e68</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-17 12:57:30</sys_updated_on>
+<timeframe>Before 0900 tomorrow</timeframe>
+<when_to_follow_up>2018-03-20 12:55:49</when_to_follow_up>
+<who_assigned display_value="Zane Sulikowski">16826bf03710200044e0bfc8bcbe5dbc</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Ensure enough people available for overtime work</action_items>
+<concern>Major financial loss</concern>
+<context>penalties from Tesco for late deliveries= 20k/wk</context>
+<current_impact>None yet</current_impact>
+<future_impact>Impact on profitability</future_impact>
+<overall_priority>High</overall_priority>
+<parent display_value="KTIA0001067">13621424db80a7005d305878dc961923</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 09:20:24</sys_created_on>
+<sys_id>0a92d424db80a7005d305878dc96197f</sys_id>
+<sys_mod_count>5</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-02 10:57:03</sys_updated_on>
+<timeframe/>
+<when_to_follow_up>2019-08-20 15:35:14</when_to_follow_up>
+<who_assigned display_value="Colin Altonen">8e826bf03710200044e0bfc8bcbe5d86</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Review of breakdowns and causes</action_items>
+<concern>Sugaring equipment has occasional failures</concern>
+<context>Need to ensure no breakdowns before peak season</context>
+<current_impact>None- working OK now</current_impact>
+<future_impact>Loss of 15% productivity of it recurs</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001067">13621424db80a7005d305878dc961923</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-04-27 13:08:22</sys_created_on>
+<sys_id>7008f077db90d050a109597e5e9619b1</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-02 10:57:03</sys_updated_on>
+<timeframe>End March</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Need to prevent in future</action_items>
+<concern>Chain in hot oil bath is broken</concern>
+<context>Broke but now fixed</context>
+<current_impact>None</current_impact>
+<future_impact>Could break again</future_impact>
+<overall_priority>Medium</overall_priority>
+<parent display_value="KTIA0001067">13621424db80a7005d305878dc961923</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 09:20:24</sys_created_on>
+<sys_id>f5829424db80a7005d305878dc9619cf</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-02 10:57:03</sys_updated_on>
+<timeframe/>
+<when_to_follow_up>2019-08-20 15:35:10</when_to_follow_up>
+<who_assigned display_value="Jewel Agresta">02826bf03710200044e0bfc8bcbe5d64</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of sugar donuts having round edges</action_items>
+<concern>25% reject rate of sugar donuts</concern>
+<context>Spikes/round edges</context>
+<current_impact>Significant loss</current_impact>
+<future_impact/>
+<overall_priority>High</overall_priority>
+<parent display_value="KTIA0001067">13621424db80a7005d305878dc961923</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 09:20:24</sys_created_on>
+<sys_id>f7625024db80a7005d305878dc96192e</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-21 17:43:15</sys_updated_on>
+<timeframe/>
+<when_to_follow_up>2019-08-21 15:35:05</when_to_follow_up>
+<who_assigned display_value="Veronica Achorn">39826bf03710200044e0bfc8bcbe5d1f</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>demo</action_items>
+<concern>abc</concern>
+<context>demo</context>
+<current_impact>demo</current_impact>
+<future_impact>demo</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001002">1a5a15570fe73e00293787ece1050e04</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-06-29 14:39:04</sys_created_on>
+<sys_id>8b5ad9170fe73e00293787ece1050e6d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-06-29 14:39:04</sys_updated_on>
+<timeframe>demo</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>BugMarket LogIn slow</concern>
+<context/>
+<current_impact>400 user</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001127">32ff364edbd94410a75cdd3b5e9619d4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-11-25 09:27:06</sys_created_on>
+<sys_id>13ffbacadbd94410a75cdd3b5e9619b9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-11-25 09:27:06</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>3</action_items>
+<concern>1</concern>
+<context>2</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001103">3c35de15dbc933405d305878dc9619e4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-25 15:55:07</sys_created_on>
+<sys_id>c5359215dbc933405d305878dc9619f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-25 15:55:07</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>abc</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001204">45da68891bac2110590c8664604bcbba</parent>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:18:45</sys_created_on>
+<sys_id>18eae8491bac2110590c8664604bcb99</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:18:45</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause to prevent in future</action_items>
+<concern>FCM 001 response sporadically delayed</concern>
+<context>FCM001 response sometimes takes too long</context>
+<current_impact>L - sometimes a bit longer wait</current_impact>
+<future_impact>M- - Staff might be annoyed</future_impact>
+<overall_priority>Medium-</overall_priority>
+<parent display_value="KTIA0001143">57c52fb7db9a145054fd6e59139619ce</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-05 12:07:27</sys_created_on>
+<sys_id>82e6ebb7db9a145054fd6e591396193e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-07 12:31:56</sys_updated_on>
+<timeframe>M - EOB Friday</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Restore Service</action_items>
+<concern>FCM 001 E117 alert</concern>
+<context>FCM001 data inputs not received</context>
+<current_impact>H - Critical area</current_impact>
+<future_impact>H - Might affect floor access</future_impact>
+<overall_priority>High</overall_priority>
+<parent display_value="KTIA0001143">57c52fb7db9a145054fd6e59139619ce</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-05 12:07:27</sys_created_on>
+<sys_id>abc5ebb7db9a145054fd6e59139619af</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-07 12:31:56</sys_updated_on>
+<timeframe>H - 3 hours</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Demo</concern>
+<context>Demo</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001107">580cfd2bdb9d7f40a75cdd3b5e961943</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-05-15 00:06:50</sys_created_on>
+<sys_id>5a0c396bdb9d7f40a75cdd3b5e961949</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-05-15 00:06:50</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Reboot completed</action_items>
+<concern>Circuit id 00062080SNG for FRAGOMEN SG is not receiving routes from London</concern>
+<context>Circuit down completely down</context>
+<current_impact>300 users affected</current_impact>
+<future_impact/>
+<overall_priority>High</overall_priority>
+<parent display_value="KTIA0001018">60af70d8db02cf00a75cdd3b5e9619e4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-10-22 11:43:44</sys_created_on>
+<sys_id>53df749cdb02cf00a75cdd3b5e96190f</sys_id>
+<sys_mod_count>3</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-10-22 11:51:54</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Zane Sulikowski">16826bf03710200044e0bfc8bcbe5dbc</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>ABS Viewer not available</concern>
+<context/>
+<current_impact>Sachbearbeiter können keine Verträge bearbeiten</current_impact>
+<future_impact/>
+<overall_priority>High+</overall_priority>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 11:08:57</sys_created_on>
+<sys_id>0e92b5381bb06150590c8664604bcbf0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe>4 Stunden (xyz)</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Überprüfe ob es changes beim Zugriff auf das Registry  gab</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>117dbdf01bf06150590c8664604bcb32</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Allan Schwantd">b282abf03710200044e0bfc8bcbe5d28</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Image nicht da</concern>
+<context>Image zur Verfügung stellen</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>a7a00a381bf06150590c8664604bcbec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Allan Schwantd">b282abf03710200044e0bfc8bcbe5d28</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Redirecting sicherstellen</concern>
+<context>Bitte auch Step 4 beachten!</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>d931c6f81bf06150590c8664604bcb40</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>ABS Viewer vx startet nicht</concern>
+<context>Abweichung: Registrierung nicht verfügbar</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>e0b275381bb06150590c8664604bcb05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Changes am Zeitpunkt vor 16:35</concern>
+<context>In Bezug auf Registry</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>e5200e781bf06150590c8664604bcbae</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Annette Frietas">62826bf03710200044e0bfc8bcbe5de8</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Changes am Registry</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>ff1006b01bf06150590c8664604bcbaa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value="Allyson Gillispie">06826bf03710200044e0bfc8bcbe5d8a</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>1</concern>
+<context>2</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001111">67d13cfadb933b00a75cdd3b5e961985</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 20:53:21</sys_created_on>
+<sys_id>0ce13472dbd33b00a75cdd3b5e96191d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 20:53:21</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Switch service to HV14</action_items>
+<concern>Cannot produce regulatory reports</concern>
+<context>Needed daily at 1630GMT</context>
+<current_impact>No reports</current_impact>
+<future_impact>Fines</future_impact>
+<overall_priority>High+</overall_priority>
+<parent display_value="KTIA0001173">6b31796adbc7e49054fd6e59139619ad</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 09:38:31</sys_created_on>
+<sys_id>2841756edbc7e49054fd6e5913961932</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 09:38:31</sys_updated_on>
+<timeframe>Fix by 1500 latest</timeframe>
+<when_to_follow_up>2021-03-25 09:11:05</when_to_follow_up>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of paint gaps</action_items>
+<concern/>
+<context>Need to know cause of paint gaps</context>
+<current_impact>6% RR and lots of downtime</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001041">736aae59db1c5b005d305878dc961938</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 18:23:17</sys_created_on>
+<sys_id>3c8a2a1ddb1c5b005d305878dc9619b3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-14 18:23:17</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Manage the reject rate</action_items>
+<concern>Microcomputer cabinets have a high reject rate</concern>
+<context>Need to control the reject rate</context>
+<current_impact>6% RR and lots of downtime</current_impact>
+<future_impact>will lose Dell order if not fixed</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001041">736aae59db1c5b005d305878dc961938</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 18:23:17</sys_created_on>
+<sys_id>5c7aa61ddb1c5b005d305878dc9619e5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-27 09:59:14</sys_updated_on>
+<timeframe>COB next Tuesday</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Plan response</action_items>
+<concern/>
+<context>Press conference ahead</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001177">785facc6db8c309054fd6e591396195c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 08:16:26</sys_created_on>
+<sys_id>1cafecc6db8c309054fd6e5913961941</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 08:16:26</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Investigate</action_items>
+<concern>Flight attendants issue</concern>
+<context>Red Sweat on Flight attendants</context>
+<current_impact>So far complaints of 60 flight attendants</current_impact>
+<future_impact>People get scared and don´t want to fly with us</future_impact>
+<overall_priority>High+</overall_priority>
+<parent display_value="KTIA0001177">785facc6db8c309054fd6e591396195c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 08:16:26</sys_created_on>
+<sys_id>1d8f600adb8c309054fd6e59139619be</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 08:16:26</sys_updated_on>
+<timeframe>Get updates until press conference 1305</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Check on other routes?</action_items>
+<concern/>
+<context>Routes affected</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001177">785facc6db8c309054fd6e591396195c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-12 08:16:26</sys_created_on>
+<sys_id>3e70fcc6db8c309054fd6e59139619bf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-12 08:16:26</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>2</action_items>
+<concern>1</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001129">88e77d4edbd68810a75cdd3b5e961948</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-01-13 21:12:30</sys_created_on>
+<sys_id>50e7718edbd68810a75cdd3b5e96192e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-01-13 21:12:30</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Problem Statement from Customer</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>0382a4aedbf30700a75cdd3b5e9619e9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Power Verified?</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>0bd2a4a6dbf30700a75cdd3b5e961998</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Date/Time of Other Occurrence</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>23c2a4eedbb30700a75cdd3b5e961990</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Any Break fix Performed</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>3203acaedbf30700a75cdd3b5e96191b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Revised Problem Statement after diagnostics</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>3b92e862dbf30700a75cdd3b5e961996</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Date/Time of first Occurrence</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>47b2642edbf30700a75cdd3b5e961980</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Location of Problem (Affected Site/s)</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>4cb2e8aedbf30700a75cdd3b5e96190e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>If Yes , What Changes</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>5803a4eedbb30700a75cdd3b5e961990</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Any Changes Made</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>65f264aedbf30700a75cdd3b5e9619ac</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>When the last time circuit is working?</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001037">8a826066dbf30700a75cdd3b5e961958</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-24 09:16:33</sys_created_on>
+<sys_id>8ee2e4aedbf30700a75cdd3b5e961966</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-24 09:16:33</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of gaps on 1025s</action_items>
+<concern>Cabinets have gaps</concern>
+<context>1025 cabinets have gaps</context>
+<current_impact>6% of 1025 production</current_impact>
+<future_impact>Rising, so expecting more defects</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001055">9d1611f6dbd99780a75cdd3b5e96196f</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 21:05:08</sys_created_on>
+<sys_id>2d1691f6dbd99780a75cdd3b5e961971</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-23 11:43:48</sys_updated_on>
+<timeframe>Will impact deliveries if not fixed within 10days</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Understand potential problems for new order</action_items>
+<concern>Our team is not ready for the new order</concern>
+<context>Worried about poor quality orders</context>
+<current_impact>No customer facing impact (yet)</current_impact>
+<future_impact>May not successfully complete order</future_impact>
+<overall_priority>Medium</overall_priority>
+<parent display_value="KTIA0001007">a5b30c970ff7b240293787ece1050e17</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-11 19:01:39</sys_created_on>
+<sys_id>344980d70ff7b240293787ece1050e76</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-07-10 11:27:41</sys_updated_on>
+<timeframe>Order is due in 6 weeks</timeframe>
+<when_to_follow_up>2017-07-28 19:01:30</when_to_follow_up>
+<who_assigned display_value="William Mahmud">4f82abf03710200044e0bfc8bcbe5d3b</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Develop budget to solve issues</action_items>
+<concern>Vibration is out of control</concern>
+<context>Give engineering go to solve vibration issues</context>
+<current_impact>Machine is ok now</current_impact>
+<future_impact>Could event lead to to loss of production?</future_impact>
+<overall_priority>Medium</overall_priority>
+<parent display_value="KTIA0001007">a5b30c970ff7b240293787ece1050e17</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-11 18:38:14</sys_created_on>
+<sys_id>4bf380d70ff7b240293787ece1050e73</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-07-11 18:38:14</sys_updated_on>
+<timeframe>Before end of month</timeframe>
+<when_to_follow_up>2017-07-28 18:38:05</when_to_follow_up>
+<who_assigned display_value="Leif Arguin">f282abf03710200044e0bfc8bcbe5d36</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find fix/workaround to stop product loss</action_items>
+<concern>Donuts are going bad</concern>
+<context>Sugar Donuts have round edges and spikes  | Sugar donuts have round edges</context>
+<current_impact>One row of four not producing correctly</current_impact>
+<future_impact>Loss of $$$</future_impact>
+<overall_priority>High</overall_priority>
+<parent display_value="KTIA0001007">a5b30c970ff7b240293787ece1050e17</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-11 18:58:45</sys_created_on>
+<sys_id>74948c970ff7b240293787ece1050efe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-07-11 18:58:45</sys_updated_on>
+<timeframe>End of shift</timeframe>
+<when_to_follow_up>2017-07-12 18:58:37</when_to_follow_up>
+<who_assigned display_value="Alissa Mountjoy">6a826bf03710200044e0bfc8bcbe5dec</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of break</action_items>
+<concern>Turner drive chain break</concern>
+<context>Had to replace broken chain</context>
+<current_impact>None- running normally</current_impact>
+<future_impact>May repeat if cause not found and corrected</future_impact>
+<overall_priority>Low+</overall_priority>
+<parent display_value="KTIA0001007">a5b30c970ff7b240293787ece1050e17</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-01-17 15:40:30</sys_created_on>
+<sys_id>e3497598db7b43005d305878dc96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-01-17 15:40:30</sys_updated_on>
+<timeframe>By COB Sunday</timeframe>
+<when_to_follow_up>2018-01-20 15:46:42</when_to_follow_up>
+<who_assigned display_value="Timothy Janski">12826bf03710200044e0bfc8bcbe5d9f</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Transactions cannot complete</action_items>
+<concern>123 users in Shanghai unable to acces customer DB</concern>
+<context>Peak time; 400+ customers calling per hour</context>
+<current_impact>Transactions cannot complete</current_impact>
+<future_impact>Loss of business</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001071">a6c2c78edbc023005d305878dc9619e4</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-22 13:56:32</sys_created_on>
+<sys_id>0fc24bcedbc023005d305878dc961990</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-22 13:58:18</sys_updated_on>
+<timeframe>today</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of fogging</action_items>
+<concern>Fogged film complaints</concern>
+<context>Sheet film fogged</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001142">a79f7eafdb9ad05054fd6e5913961902</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-04 14:28:22</sys_created_on>
+<sys_id>00affaafdb9ad05054fd6e59139619ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-04 14:28:22</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern/>
+<context>12122</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001138">aa1e4276db86d01073b4a37648961955</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:40:26</sys_created_on>
+<sys_id>fa1e0e36db86d01073b4a376489619d3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:40:26</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>lkdhlad</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001105">b474ec0ddb5d7b405d305878dc96196d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-05-06 23:19:22</sys_created_on>
+<sys_id>9174a4c9db5d7b405d305878dc961994</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-05-06 23:19:22</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of round edges - to restore service</action_items>
+<concern>Sugar donuts reported to have round edges</concern>
+<context/>
+<current_impact>Affecting all donuts on R1</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001145">b5b9796ddba2985054fd6e591396194c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-10 14:35:43</sys_created_on>
+<sys_id>06b9796ddba2985054fd6e5913961953</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-10 14:35:43</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cuase to restore service</action_items>
+<concern>Also - sugar donuts sometimes have spikes too</concern>
+<context/>
+<current_impact>Affecting 10% of donuts on R1</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001145">b5b9796ddba2985054fd6e591396194c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-10 14:35:43</sys_created_on>
+<sys_id>0cf9f1a5dba2985054fd6e59139619c1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-10 14:35:43</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Laptop screen broken</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001155">b6102585dbec6c5073b4a37648961968</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 09:28:20</sys_created_on>
+<sys_id>3f10ad45dbec6c5073b4a3764896196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 09:28:20</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern/>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001133">bd099ccedb601010a109597e5e961935</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-04 10:39:31</sys_created_on>
+<sys_id>870958cadb601010a109597e5e9619ff</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-04 10:39:31</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Manage paint gaps on 1025s</action_items>
+<concern/>
+<context/>
+<current_impact>Downtime is high, customers are very frustrated, employees feel overwhelmed and we have lost productivity</current_impact>
+<future_impact>Downtime will get higher, customers might walk away, we lose lots of money</future_impact>
+<overall_priority>High+</overall_priority>
+<parent display_value="KTIA0001040">c1ad565ddbd85b005d305878dc961928</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 17:43:45</sys_created_on>
+<sys_id>080062d9dbd85b005d305878dc9619cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-14 17:43:45</sys_updated_on>
+<timeframe>Today by 5 pm</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of why 1025 cabinets have paint gaps</action_items>
+<concern>Microcomputer cabinets have a high reject rate</concern>
+<context>1025 cabinets have paint gaps</context>
+<current_impact>Reject rate is 6% and rising</current_impact>
+<future_impact>RR will continue to increase and so will downtime</future_impact>
+<overall_priority>High+</overall_priority>
+<parent display_value="KTIA0001040">c1ad565ddbd85b005d305878dc961928</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 17:43:45</sys_created_on>
+<sys_id>21ad5295db1c5b005d305878dc9619dd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-14 17:43:45</sys_updated_on>
+<timeframe>Fix today by 5 pm</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>BAd donouhgts</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001141">d05b9b9fdbd6145073b4a3764896195c</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 21:51:05</sys_created_on>
+<sys_id>957b5b1bdb1a145073b4a37648961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 21:51:05</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Demo concern 1</concern>
+<context>Demo context 1</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001104">d05f86a6db4df3405d305878dc961969</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-04-29 12:43:00</sys_created_on>
+<sys_id>055fcaa6db4df3405d305878dc961902</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-04-29 12:43:00</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of turner chain breaking</action_items>
+<concern>Turner chain failed</concern>
+<context>Turner chain was replaced</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001140">db7c0393db9e905054fd6e591396197d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:50:50</sys_created_on>
+<sys_id>019c8b53db9e905054fd6e591396197e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:50:50</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of round edges</action_items>
+<concern>Bad donuts 1</concern>
+<context>Sugar donuts have round edges</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001140">db7c0393db9e905054fd6e591396197d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:50:50</sys_created_on>
+<sys_id>3f7c8b53db9e905054fd6e5913961971</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:50:50</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of spikes on donuts</action_items>
+<concern>Bad donuts 2</concern>
+<context>Sugar donuts have spikes</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001140">db7c0393db9e905054fd6e591396197d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-03 20:50:50</sys_created_on>
+<sys_id>ab9ccf53db9e905054fd6e59139619d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-03 20:50:50</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>Test</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001152">dd109185dbac6c5073b4a3764896195d</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-11-16 08:16:42</sys_created_on>
+<sys_id>c610d14ddb6c6c5073b4a37648961926</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-11-16 08:16:42</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>ensure we have a provable cause</action_items>
+<concern>third E117 this week</concern>
+<context>system controls access</context>
+<current_impact>None- working now</current_impact>
+<future_impact>Likely to repeat</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001069">ee2fcd39dbcceb00a75cdd3b5e961927</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-23 11:50:29</sys_created_on>
+<sys_id>1d9f671edb882300a75cdd3b5e961948</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-23 11:50:29</sys_updated_on>
+<timeframe>COB Friday</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Esnure we have protection plan</action_items>
+<concern>Affects system floor</concern>
+<context>Critical area</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001069">ee2fcd39dbcceb00a75cdd3b5e961927</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-09-13 08:51:47</sys_created_on>
+<sys_id>51105f05db6c23005d305878dc9619c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-09-13 08:51:47</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>It may not work</concern>
+<context>New development</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001102">ee8cd01bdba07300a75cdd3b5e961952</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-04-06 15:44:26</sys_created_on>
+<sys_id>578cd01bdba07300a75cdd3b5e961977</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-04-06 15:44:26</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>adad</action_items>
+<concern>asdasda</concern>
+<context>adad</context>
+<current_impact>h</current_impact>
+<future_impact>h</future_impact>
+<overall_priority>High+</overall_priority>
+<parent display_value="KTIA0001188">f005c22bdb13451054fd6e59139619fc</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-12 15:47:37</sys_created_on>
+<sys_id>8905cee7db13451054fd6e5913961961</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-12 15:47:37</sys_updated_on>
+<timeframe>h</timeframe>
+<when_to_follow_up>2022-05-12 15:47:32</when_to_follow_up>
+<who_assigned display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>1</concern>
+<context>2</context>
+<current_impact>3</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001183">f3cc1df21b807c50590c8664604bcb0b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-14 19:21:20</sys_created_on>
+<sys_id>4cdc1df21b807c50590c8664604bcb2d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-14 19:21:20</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Choose a new project manager</action_items>
+<concern>Issues with Project leadership</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001063">f3f1846cdb40a7005d305878dc961930</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 08:07:29</sys_created_on>
+<sys_id>4822c02cdb40a7005d305878dc9619c9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-17 08:07:29</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Mitigate impact of strike</action_items>
+<concern>Impending strike</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001063">f3f1846cdb40a7005d305878dc961930</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 08:07:29</sys_created_on>
+<sys_id>7322082cdb40a7005d305878dc96194a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-17 08:07:29</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Understand background to management's concerns, find cause of delays</action_items>
+<concern>Poor performance of project</concern>
+<context>Concerns coming from senior management, delays to pilot testing</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001063">f3f1846cdb40a7005d305878dc961930</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 08:07:29</sys_created_on>
+<sys_id>9802846cdb40a7005d305878dc961938</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-17 08:07:29</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of arguments</action_items>
+<concern>Lots of arguments</concern>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001063">f3f1846cdb40a7005d305878dc961930</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-17 08:07:29</sys_created_on>
+<sys_id>d412046cdb40a7005d305878dc96194a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-08-17 08:07:29</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern/>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001054">f59281f2db999780a75cdd3b5e961954</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 19:41:39</sys_created_on>
+<sys_id>43d28d7edb999780a75cdd3b5e961981</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 19:41:39</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Find cause of fog on sheet film</action_items>
+<concern>Film is fogged</concern>
+<context>Sheet film has fog</context>
+<current_impact>682 dealers are affected</current_impact>
+<future_impact>More dealers (if not all) will experience the same issue if not fixed</future_impact>
+<overall_priority/>
+<parent display_value="KTIA0001054">f59281f2db999780a75cdd3b5e961954</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 19:41:39</sys_created_on>
+<sys_id>5e92c97edb999780a75cdd3b5e96190e</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 20:34:13</sys_updated_on>
+<timeframe>SLA to fix is by end of day</timeframe>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern/>
+<context/>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001054">f59281f2db999780a75cdd3b5e961954</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 20:34:13</sys_created_on>
+<sys_id>9a4f0df2dbd99780a75cdd3b5e9619a4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 20:34:13</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Understand how to leverage this situation</action_items>
+<concern/>
+<context>Our competitors could benefit from this</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001054">f59281f2db999780a75cdd3b5e961954</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 19:41:39</sys_created_on>
+<sys_id>c9d20db6db999780a75cdd3b5e961915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 19:41:39</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Manage relationship with dealers</action_items>
+<concern/>
+<context>Dealers are threatening to stop selling our film</context>
+<current_impact/>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001054">f59281f2db999780a75cdd3b5e961954</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-04-09 19:41:39</sys_created_on>
+<sys_id>d2b2cd7edb999780a75cdd3b5e96196b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-04-09 19:41:39</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items/>
+<concern>12</concern>
+<context>12</context>
+<current_impact>12</current_impact>
+<future_impact/>
+<overall_priority/>
+<parent display_value="KTIA0001186">fb7360411bde4910590c8664604bcb5b</parent>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-15 21:14:38</sys_created_on>
+<sys_id>508324411bde4910590c8664604bcb8e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-15 21:14:38</sys_updated_on>
+<timeframe/>
+<when_to_follow_up/>
+<who_assigned display_value=""/>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+<x_ket_kt_analysis_step_1_situation_appraisal action="INSERT_OR_UPDATE">
+<action_items>Toaster</action_items>
+<concern>Burnt toast</concern>
+<context>Breakfast</context>
+<current_impact>Wasted a piece of bread</current_impact>
+<future_impact>I'll go hungry</future_impact>
+<overall_priority>Medium</overall_priority>
+<parent display_value="KTIA0001056">fc56c99ddb7953c0a75cdd3b5e961987</parent>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2018-04-30 00:36:01</sys_created_on>
+<sys_id>9956015ddb7953c0a75cdd3b5e9619eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2018-04-30 00:36:01</sys_updated_on>
+<timeframe>Morning</timeframe>
+<when_to_follow_up>2018-05-01 00:35:47</when_to_follow_up>
+<who_assigned display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</who_assigned>
+</x_ket_kt_analysis_step_1_situation_appraisal>
+</unload>

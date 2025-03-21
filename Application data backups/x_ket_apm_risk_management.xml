@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:22:05">
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Do XY</contingent_actions>
+<likely_cause_of_failure>Security issue X resurfaces</likely_cause_of_failure>
+<parent display_value="KTAPM0001091">03835eba1b587c10590c8664604bcb80</parent>
+<preventive_actions>While rollback isolate security X fix</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-27 10:03:16</sys_created_on>
+<sys_id>e783defe1b187c10590c8664604bcb05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-27 10:03:16</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>weather</likely_cause_of_failure>
+<parent display_value="KTAPM0001114">29ac604d1bac2110590c8664604bcbbb</parent>
+<preventive_actions/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:27:38</sys_created_on>
+<sys_id>31bc680d1bac2110590c8664604bcb80</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:27:38</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>Moisture</likely_cause_of_failure>
+<parent display_value="KTAPM0001054">44520a7edbc6d01054fd6e591396199a</parent>
+<preventive_actions/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:47:49</sys_created_on>
+<sys_id>c8520a7edbc6d01054fd6e591396199f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:47:49</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>demo</likely_cause_of_failure>
+<parent display_value="KTAPM0001029">56db78f7db1d33805d305878dc961946</parent>
+<preventive_actions/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2019-05-15 23:39:55</sys_created_on>
+<sys_id>346fbaffdb5173805d305878dc96195d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2019-05-15 23:39:55</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure/>
+<parent display_value="KTAPM0001046">7dd5cc8adb685010a75cdd3b5e96191e</parent>
+<preventive_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-04 09:37:42</sys_created_on>
+<sys_id>ded5cc8adb685010a75cdd3b5e961912</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-04 09:37:42</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>9</likely_cause_of_failure>
+<parent display_value="KTAPM0001023">957512d5dbc933405d305878dc96194f</parent>
+<preventive_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-25 15:55:29</sys_created_on>
+<sys_id>917512d5dbc933405d305878dc961954</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-25 15:55:29</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>3</contingent_actions>
+<likely_cause_of_failure>1</likely_cause_of_failure>
+<parent display_value="KTAPM0001096">9c848ee7db13451054fd6e591396193f</parent>
+<preventive_actions>2</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-12 15:44:47</sys_created_on>
+<sys_id>14848ee7db13451054fd6e5913961945</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-12 15:44:47</sys_updated_on>
+<triggers>4</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>reassure clients the issue is in control</contingent_actions>
+<likely_cause_of_failure>Patches reported negatively in the news</likely_cause_of_failure>
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<preventive_actions>proactive positive press release</preventive_actions>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>e0d9d855dbd53b40a75cdd3b5e96194d</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-08-03 13:49:20</sys_updated_on>
+<triggers>Client complains to account manager</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Pull the hotfix</contingent_actions>
+<likely_cause_of_failure>New patch Introduces additional problems</likely_cause_of_failure>
+<parent display_value="KTAPM0001022">b57e4641db4dbf00a75cdd3b5e96198e</parent>
+<preventive_actions>In House and some client testing</preventive_actions>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2019-05-07 17:23:04</sys_created_on>
+<sys_id>fbe85c51dbd53b40a75cdd3b5e961997</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2019-05-09 16:56:58</sys_updated_on>
+<triggers>Initial testing shows 2nd issue</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>242424</likely_cause_of_failure>
+<parent display_value="KTAPM0001086">bc0dddf21b807c50590c8664604bcbab</parent>
+<preventive_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-14 19:21:35</sys_created_on>
+<sys_id>7c0dddf21b807c50590c8664604bcbb1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-14 19:21:35</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>2</likely_cause_of_failure>
+<parent display_value="KTAPM0001033">bf12b0b2dbd33b00a75cdd3b5e9619ef</parent>
+<preventive_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 20:54:57</sys_created_on>
+<sys_id>8322f0b2dbd33b00a75cdd3b5e961936</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 20:54:57</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>1</likely_cause_of_failure>
+<parent display_value="KTAPM0001033">bf12b0b2dbd33b00a75cdd3b5e9619ef</parent>
+<preventive_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 20:53:38</sys_created_on>
+<sys_id>f312f0b2dbd33b00a75cdd3b5e961901</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 20:54:57</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>11</contingent_actions>
+<likely_cause_of_failure>9</likely_cause_of_failure>
+<parent display_value="KTAPM0001115">c81619cd1b606110590c8664604bcb6d</parent>
+<preventive_actions>10</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:26:43</sys_created_on>
+<sys_id>801619cd1b606110590c8664604bcb72</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:26:43</sys_updated_on>
+<triggers>12</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>12</contingent_actions>
+<likely_cause_of_failure>1212</likely_cause_of_failure>
+<parent display_value="KTAPM0001095">e8d3a8411bde4910590c8664604bcb20</parent>
+<preventive_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-15 21:14:46</sys_created_on>
+<sys_id>e8d3a8411bde4910590c8664604bcb32</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-15 21:14:46</sys_updated_on>
+<triggers>12</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>Demo</likely_cause_of_failure>
+<parent display_value="KTAPM0001068">ef4c9af6dbc2201073b4a3764896194f</parent>
+<preventive_actions/>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2021-02-04 13:53:39</sys_created_on>
+<sys_id>bb6c96b6dbc2201073b4a376489619d5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2021-02-04 13:53:39</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Reassurance to clients</contingent_actions>
+<likely_cause_of_failure>Patches reported negatively in the news</likely_cause_of_failure>
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<preventive_actions>Proactive press release</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>a33337d1db419810a75cdd3b5e96192c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<triggers>Clients complain to account manager</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Put the hotfix</contingent_actions>
+<likely_cause_of_failure>New patch introduces additional problems</likely_cause_of_failure>
+<parent display_value="KTAPM0001053">f93774f0db811810a75cdd3b5e961941</parent>
+<preventive_actions>In house and client testing</preventive_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-05-27 15:12:12</sys_created_on>
+<sys_id>a493ff91db419810a75cdd3b5e9619cc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-05-27 15:12:12</sys_updated_on>
+<triggers>Initial testing shows issue</triggers>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>Drop my tool into fresh dough</likely_cause_of_failure>
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<preventive_actions/>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>6718f7a3db1a281073b4a3764896198f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>Hurt my hands when working on the system</likely_cause_of_failure>
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<preventive_actions/>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>a9183fefdbd6281073b4a376489619fa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+<triggers/>
+</x_ket_apm_risk_management>
+<x_ket_apm_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>swear. go back. get the right one</contingent_actions>
+<likely_cause_of_failure>Bring the wrong wrench</likely_cause_of_failure>
+<parent display_value="KTAPM0001003">fddcd41bdba07300a75cdd3b5e961902</parent>
+<preventive_actions>check manual for bolt size, bring full tool belt of multiple sizes, bring an adjustable</preventive_actions>
+<sys_created_by>schagpar</sys_created_by>
+<sys_created_on>2021-02-19 14:46:56</sys_created_on>
+<sys_id>ce37fb63db1a281073b4a3764896195d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>schagpar</sys_updated_by>
+<sys_updated_on>2021-02-19 14:46:56</sys_updated_on>
+<triggers>adjustable slips</triggers>
+</x_ket_apm_risk_management>
+</unload>

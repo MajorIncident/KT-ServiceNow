@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2024-07-23 01:20:03">
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Apologize, and let Adam know that we will be updatin our training on LinkedIn Learning</contingent_actions>
+<likely_cause_of_failure>When coaching Adam, he becomes discourages, and upset</likely_cause_of_failure>
+<parent display_value=""/>
+<preventative_actions>I could suggest that perhaps we work together during his shift to get the job done</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-03-11 05:34:56</sys_created_on>
+<sys_id>60349cfadb047b005d305878dc9619a9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-03-11 05:34:56</sys_updated_on>
+<triggers>He starts to shut down, responding in only YES, or YES Boss.</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Increase motherboard stock</contingent_actions>
+<likely_cause_of_failure>Other faulty motherboards</likely_cause_of_failure>
+<parent display_value="KTIA0001008">0ffb0c330f37f240293787ece1050ee9</parent>
+<preventative_actions>Test all DTech series 3 motherboards and replace</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-03-17 13:24:54</sys_created_on>
+<sys_id>43cf0917db709b40a75cdd3b5e9619ea</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-03-17 13:25:38</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Customer communication template issued</contingent_actions>
+<likely_cause_of_failure>Poor donuts delivered to customers</likely_cause_of_failure>
+<parent display_value="KTIA0001067">13621424db80a7005d305878dc961923</parent>
+<preventative_actions>Add resources to QA</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-20 19:20:19</sys_created_on>
+<sys_id>33e421cbdb937b00a75cdd3b5e961901</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-20 19:20:19</sys_updated_on>
+<triggers>Complaining customers</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>New edger design</contingent_actions>
+<likely_cause_of_failure>Weak new screws</likely_cause_of_failure>
+<parent display_value="KTIA0001067">13621424db80a7005d305878dc961923</parent>
+<preventative_actions>issue torque wrenches</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-08-22 13:25:35</sys_created_on>
+<sys_id>932bbecadbc023005d305878dc9619b0</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-20 15:55:46</sys_updated_on>
+<triggers>2nd failure</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>11</contingent_actions>
+<likely_cause_of_failure>9</likely_cause_of_failure>
+<parent display_value="KTIA0001205">19b5dd8d1b606110590c8664604bcb42</parent>
+<preventative_actions>10</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-01-20 17:26:30</sys_created_on>
+<sys_id>61b5d98d1b606110590c8664604bcbf8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-01-20 17:26:30</sys_updated_on>
+<triggers>12</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>demo</likely_cause_of_failure>
+<parent display_value="KTIA0001002">1a5a15570fe73e00293787ece1050e04</parent>
+<preventative_actions>demo</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-06-29 14:39:04</sys_created_on>
+<sys_id>b35a9d170fe73e00293787ece1050e12</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-06-29 14:39:04</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>9</likely_cause_of_failure>
+<parent display_value="KTIA0001103">3c35de15dbc933405d305878dc9619e4</parent>
+<preventative_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-04-25 15:55:07</sys_created_on>
+<sys_id>89359215dbc933405d305878dc9619f2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-04-25 15:55:07</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>demo</likely_cause_of_failure>
+<parent display_value="KTIA0001204">45da68891bac2110590c8664604bcbba</parent>
+<preventative_actions/>
+<sys_created_by>itil</sys_created_by>
+<sys_created_on>2023-01-20 14:18:45</sys_created_on>
+<sys_id>d8eae8491bac2110590c8664604bcb99</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>itil</sys_updated_by>
+<sys_updated_on>2023-01-20 14:18:45</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>2nd back up FCM to connect with it</contingent_actions>
+<likely_cause_of_failure>Too high load for new FCM too</likely_cause_of_failure>
+<parent display_value="KTIA0001143">57c52fb7db9a145054fd6e59139619ce</parent>
+<preventative_actions>Test it out before</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-06 09:21:02</sys_created_on>
+<sys_id>e1f9c058db6a545054fd6e59139619d6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-06 09:21:59</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Put guards strategically to  critical points in the area</contingent_actions>
+<likely_cause_of_failure>Someone could enter the critical area</likely_cause_of_failure>
+<parent display_value="KTIA0001143">57c52fb7db9a145054fd6e59139619ce</parent>
+<preventative_actions>During non busy hours,
+Security guards</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-08-06 09:21:02</sys_created_on>
+<sys_id>fea93bb7dbda145054fd6e59139619f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-08-06 09:21:02</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Rechte für User anpassen</contingent_actions>
+<likely_cause_of_failure>Redirecting auf neue Ressource schlägt fehl</likely_cause_of_failure>
+<parent display_value="KTIA0001207">6192f9381bb06150590c8664604bcbfe</parent>
+<preventative_actions>Benutzerrechte nicht angepasst - Vorab testen</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-02-01 12:21:11</sys_created_on>
+<sys_id>a4b275381bb06150590c8664604bcb05</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-02-01 12:21:11</sys_updated_on>
+<triggers>Fehlermelung aus dem Testsystem</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure/>
+<parent display_value="KTIA0001111">67d13cfadb933b00a75cdd3b5e961985</parent>
+<preventative_actions>9</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-19 20:53:21</sys_created_on>
+<sys_id>cce13472dbd33b00a75cdd3b5e96191d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-19 20:53:21</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Failover available</contingent_actions>
+<likely_cause_of_failure>Non standard CIs</likely_cause_of_failure>
+<parent display_value="KTIA0001173">6b31796adbc7e49054fd6e59139619ad</parent>
+<preventative_actions>Precheck</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-03-25 09:38:31</sys_created_on>
+<sys_id>e841756edbc7e49054fd6e5913961932</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-03-25 09:38:31</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure/>
+<parent display_value="KTIA0001041">736aae59db1c5b005d305878dc961938</parent>
+<preventative_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2018-02-14 18:23:17</sys_created_on>
+<sys_id>d87aa61ddb1c5b005d305878dc9619e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2018-02-14 18:23:17</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Use 2nd parts vendor</contingent_actions>
+<likely_cause_of_failure>The fix takes longer than expected (no spare part)</likely_cause_of_failure>
+<parent display_value="KTIA0001007">a5b30c970ff7b240293787ece1050e17</parent>
+<preventative_actions>Plan extra time, double check all orders</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-11 19:13:00</sys_created_on>
+<sys_id>e24c485b0ff7b240293787ece1050eb4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-07-11 19:13:00</sys_updated_on>
+<triggers>Lead time threshold missed</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>Shut down and clean</contingent_actions>
+<likely_cause_of_failure>Food could be contaminated due to piece of hardware in machine</likely_cause_of_failure>
+<parent display_value="KTIA0001007">a5b30c970ff7b240293787ece1050e17</parent>
+<preventative_actions>Random donut contamination test in QA</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-07-11 19:13:00</sys_created_on>
+<sys_id>fb3c489b0ff7b240293787ece1050e3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-07-11 19:13:00</sys_updated_on>
+<triggers>Test is positive</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>12</likely_cause_of_failure>
+<parent display_value="KTIA0001138">aa1e4276db86d01073b4a37648961955</parent>
+<preventative_actions>12</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2020-07-20 16:40:26</sys_created_on>
+<sys_id>be1e0e36db86d01073b4a376489619d3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2020-07-20 16:40:26</sys_updated_on>
+<triggers>12</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>3</contingent_actions>
+<likely_cause_of_failure>1</likely_cause_of_failure>
+<parent display_value="KTIA0001187">b7f306e7db13451054fd6e59139619bf</parent>
+<preventative_actions>2</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-12 15:44:37</sys_created_on>
+<sys_id>d404caa7db13451054fd6e591396190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-12 15:44:37</sys_updated_on>
+<triggers>4</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>242424</likely_cause_of_failure>
+<parent display_value="KTIA0001183">f3cc1df21b807c50590c8664604bcb0b</parent>
+<preventative_actions/>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2021-05-14 19:21:20</sys_created_on>
+<sys_id>00dc1df21b807c50590c8664604bcb2e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2021-05-14 19:21:20</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions>12</contingent_actions>
+<likely_cause_of_failure>1212</likely_cause_of_failure>
+<parent display_value="KTIA0001186">fb7360411bde4910590c8664604bcb5b</parent>
+<preventative_actions>12</preventative_actions>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-15 21:14:38</sys_created_on>
+<sys_id>148324411bde4910590c8664604bcb8e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-15 21:14:38</sys_updated_on>
+<triggers>12</triggers>
+</x_ket_kt_analysis_step_4_risk_management>
+<x_ket_kt_analysis_step_4_risk_management action="INSERT_OR_UPDATE">
+<contingent_actions/>
+<likely_cause_of_failure>Moisture</likely_cause_of_failure>
+<parent display_value="KTIA0001137">ff01463edbc6d01054fd6e5913961910</parent>
+<preventative_actions>Do not drop in water</preventative_actions>
+<sys_created_by>jbochnak</sys_created_by>
+<sys_created_on>2020-07-20 15:47:03</sys_created_on>
+<sys_id>64110afadbc6d01054fd6e5913961965</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>jbochnak</sys_updated_by>
+<sys_updated_on>2020-07-20 15:47:03</sys_updated_on>
+<triggers/>
+</x_ket_kt_analysis_step_4_risk_management>
+</unload>
