@@ -1,0 +1,12 @@
+Kepner-Tregoe Source Code License
+
+This source code is provided by Kepner-Tregoe ("KT") to your organization at no cost, under a limited, non-exclusive, non-transferable license. All intellectual property rights, including but not limited to any methodologies, frameworks, or embedded concepts, remain the sole and exclusive property of Kepner-Tregoe.
+
+Your organization may use, modify, and extend the code for internal business purposes only, subject to the following conditions:
+
+1. Attribution & Ownership: All original copyright and proprietary notices must be retained.
+2. No Redistribution: The code may not be resold, relicensed, or shared with third parties outside your organization without KT’s written consent.
+3. Contribution Sharing: You agree to share back any modifications, enhancements, documentation, or derivative works created from this code with KT, to support ongoing collaboration and potential community benefit.
+4. No Waiver of Rights: Provision of this code does not constitute a transfer of intellectual property or grant any rights beyond those expressly stated.
+
+By using this code, you agree to abide by these terms.
