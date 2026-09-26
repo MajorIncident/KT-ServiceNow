@@ -18,6 +18,10 @@ Advanced Problem Management (RCA) is the Problem Management / Root Cause Analysi
 | Primary ServiceNow record family | Problem (`PRB...`) |
 | Analysis record prefix visible in data | `KTAPM...` |
 
+## Quick download
+
+[**Advanced Problem Management (RCA) - 2024-07-12 package snapshot**](https://github.com/MajorIncident/KT-ServiceNow/releases/tag/problem-2024-07-12) includes the ServiceNow application package and installation guide. The release is intentionally dated because a semantic APM version was not safely verified from the current repository export.
+
 ## Start here
 
 1. Use [`docs/current/`](docs/current/) for the current-facing installation guide and principal design/test/reference files.
