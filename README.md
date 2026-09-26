@@ -1,26 +1,66 @@
-# Kepner-Tregoe Client Codebase
+# Kepner-Tregoe ServiceNow Apps
 
-This private repository contains proprietary Kepner-Tregoe code provided to specific clients for internal use and further development.
+This repository contains the Kepner-Tregoe (KT) applications, installation packages, supporting documentation, and reference data for ServiceNow.
 
-## 🔐 License & Usage
+## Choose the application you need
 
-- Provided at no cost under a **non-exclusive, non-transferable license**.
-- **All intellectual property remains the sole property of Kepner-Tregoe.**
-- Internal use only — **no redistribution or sublicensing** permitted.
-- Any modifications, enhancements, or documentation must be shared back with Kepner-Tregoe to support ongoing improvement and collaboration.
+| Application | What it supports | You may also know it as | Start here |
+| --- | --- | --- | --- |
+| **Advanced Incident Management** | Structured incident analysis and major-incident/service-restoration work | **KT Analysis**, K-T Incident Analysis, IM Plugin, Incident Management Plugin | [`advanced-incident-management/`](advanced-incident-management/) |
+| **Advanced Problem Management (RCA)** | Root cause analysis and prevention of recurring problems | **APM**, KT Problem V2, Problem Management App, RCA | [`advanced-problem-management/`](advanced-problem-management/) |
+| **Advanced Case Management** | Structured analysis in case/customer-service workflows | **ACM**, Case Analysis | [`advanced-case-management/`](advanced-case-management/) |
 
-See [`LICENSE_KT.txt`](LICENSE_KT.txt) for full license terms.
+If someone sent you here looking for the **KT Incident Management plugin**, choose **Advanced Incident Management**.
 
-## 🛠️ How to Use
+## Repository map
 
-1. Clone the repository or download the code.
-2. Follow internal setup instructions or reach out to KT for support.
-3. Submit modifications via pull request or by email as agreed.
+```text
+KT-ServiceNow/
+├── advanced-incident-management/   # Incident Management / KT Analysis
+├── advanced-problem-management/    # Problem Management / RCA
+├── advanced-case-management/       # Case Management
+├── shared/                         # Shared ServiceNow instructions and templates
+├── docs/                           # Repository-level guidance
+├── CONTRIBUTING.md
+└── LICENSE_KT.txt
+```
 
-## 📬 Contact
+Each product area follows the same pattern:
 
-For questions, support, or to share updates, contact your KT representative or email Shane Chagpar - schagpar@kepner-tregoe.com
+- `README.md` - what the product is, aliases, technical identity, and where to start
+- `package/` - ServiceNow scoped-application/update-set backup
+- `docs/current/` - the documentation a visitor should use first
+- `data-backups/` - application/reference data exports
+- `archive/` - historical, superseded, development, or certification-reference material
 
----
+## Current technical identities
 
-_This repository is private and intended only for authorized users. Unauthorized access or distribution is strictly prohibited._
+| Product | ServiceNow application / scope | Version visible in repository package |
+| --- | --- | --- |
+| Advanced Incident Management | `KT Analysis` / `x_ket_kt_analysis` | `1.3.2` |
+| Advanced Problem Management (RCA) | `x_ket_apm` | See packaged export / current installation documentation |
+| Advanced Case Management | `Advanced Case Management` / `x_ket_acm` | `1.0.2` |
+
+The names above deliberately preserve both the customer-facing product names and the legacy/internal ServiceNow identifiers so that older references remain searchable.
+
+## Installing or evaluating an app
+
+Start in the product folder rather than browsing raw XML files at the repository root. Each product README points to its current installation material and package.
+
+Shared ServiceNow import/reference instructions are under [`shared/installation/`](shared/installation/).
+
+## Historical files
+
+Older installation guides, design iterations, test-plan versions, blog/source material, and development notes are retained under each product's `archive/` area. They are kept for traceability and reference but should not be assumed to be the current installation path.
+
+## License and usage
+
+Use of this source code is governed by [`LICENSE_KT.txt`](LICENSE_KT.txt). The repository being accessible on GitHub does **not** change the license terms or grant redistribution, sublicensing, or other rights beyond those terms.
+
+## Contributing
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for how to share fixes, enhancements, documentation, and other improvements back with KT.
+
+## Support
+
+For questions about the applications or repository, contact your KT representative or Shane Chagpar at `schagpar@kepner-tregoe.com`.
