@@ -12,6 +12,14 @@ This repository contains the Kepner-Tregoe (KT) applications, installation packa
 
 If someone sent you here looking for the **KT Incident Management plugin**, choose **Advanced Incident Management**.
 
+## Quick downloads
+
+If you want the installable package rather than the repository history, use the product release pages:
+
+- [Advanced Incident Management v1.3.2](https://github.com/MajorIncident/KT-ServiceNow/releases/tag/incident-v1.3.2) - ServiceNow application package + installation guide
+- [Advanced Problem Management (RCA) - 2024-07-12 package snapshot](https://github.com/MajorIncident/KT-ServiceNow/releases/tag/problem-2024-07-12) - ServiceNow application package + installation guide
+- [Advanced Case Management v1.0.2](https://github.com/MajorIncident/KT-ServiceNow/releases/tag/case-v1.0.2) - ServiceNow application package + installation guide
+
 ## Repository map
 
 ```text
