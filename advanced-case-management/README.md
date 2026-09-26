@@ -17,6 +17,10 @@ Advanced Case Management is the Case Management / Case Analysis application in t
 | Version in packaged 2024-07-12 export | `1.0.2` |
 | Primary ServiceNow record family | Customer Service Case (`CS...`) |
 
+## Quick download
+
+[**Advanced Case Management v1.0.2 release**](https://github.com/MajorIncident/KT-ServiceNow/releases/tag/case-v1.0.2) includes the ServiceNow application package and installation guide.
+
 ## Start here
 
 1. Review [`docs/current/`](docs/current/) for installation, design, test, and overview material.

@@ -22,6 +22,10 @@ This product has accumulated several names across its history. They all point to
 | Version in packaged 2024-07-12 export | `1.3.2` |
 | Primary ServiceNow record family | Incident (`INC...`) |
 
+## Quick download
+
+[**Advanced Incident Management v1.3.2 release**](https://github.com/MajorIncident/KT-ServiceNow/releases/tag/incident-v1.3.2) includes the ServiceNow application package and installation guide.
+
 ## Start here
 
 1. Review [`docs/current/`](docs/current/) for the current-facing installation/test/reference material retained in this repository.
